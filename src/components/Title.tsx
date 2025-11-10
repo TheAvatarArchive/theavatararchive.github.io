@@ -1,14 +1,11 @@
 
-
-function NavBar() {
+function Title() {
 
     return (
-        <>
-            <div className="navbar bg-base-100">
-                <p className="textarea-xl">The Avatar Archive</p>
-            </div>
-        </>
+        <div className="max-w-full text-4xl mt-20 mb-20">
+            The Avatar Archive :-)
+        </div>
     )
 }
 
-export default NavBar
+export default Title
