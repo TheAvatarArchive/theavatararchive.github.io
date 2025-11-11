@@ -3,6 +3,7 @@ import App from "./App.tsx";
 import "./index.css";
 import { BrowserRouter, Routes, Route } from "react-router";
 import ClassAvatars from "./pages/ClassAvatarPage/ClassAvatars.tsx";
+import AvatarProfilePage from "./pages/AvatarProfilePage/AvatarProfilePage.tsx";
 
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
@@ -10,7 +11,7 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
         <Routes>
             <Route path="/" element={<App />} />
             <Route path="/ClassAvatars" element={<ClassAvatars />} />
-            {/*<Route path="contestants" element={<ContestantGallery />} />*/}
+            <Route path="/AvatarProfilePage" element={<AvatarProfilePage />} />
         </Routes>
     </BrowserRouter>
 );

@@ -2,8 +2,8 @@
 function Title() {
 
     return (
-        <div className="max-w-full text-4xl mt-20 mb-20">
-            The Avatar Archive :-)
+        <div className="flex text-4xl mt-20 mb-20">
+            <div className="flex w-full justify-around">The Avatar Archive :-)</div>
         </div>
     )
 }

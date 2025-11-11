@@ -2,7 +2,7 @@
 function Avatar() {
 
     return (
-        <a href="/ClassAvatars">
+        <a href="/AvatarProfilePage">
             <img
                 className="mask mask-square rounded-3xl w-full h-full"
                 src="../../public/BananaMan.gif"
