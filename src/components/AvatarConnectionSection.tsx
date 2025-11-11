@@ -3,7 +3,7 @@ import Avatar from "./Avatar.tsx";
 function AvatarConnectionSection() {
 
     return (
-        <div className="grid grid-cols-2 gap-10 text-4xl mb-20 bg-accent">
+        <div className="dark-bg grid grid-cols-2 gap-10 text-4xl mb-20">
             <div className="p-40">
                 <Avatar />
             </div>
