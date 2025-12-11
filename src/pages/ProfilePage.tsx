@@ -7,6 +7,7 @@ import AvatarEnvSection from "../components/AvatarEnvSection.tsx";
 import AvatarConnectionSection from "../components/AvatarConnectionSection.tsx";
 import Title from "../components/Title.tsx";
 import SubNav from "../components/SubNav.tsx";
+import Footer from "../components/Footer.tsx";
 
 function ProfilePage(props) {
     const {c, a} = useParams()
@@ -14,23 +15,20 @@ function ProfilePage(props) {
         return course.name == c
     }
 
-    // console.log(c)
-    // console.log(a)
     const [courseData, setCourseData] = useState(data ? data.find(isClass) :  {})
 
     function isAvatar(student){
         return student.avatar.name == a
     }
 
-
     const [studentData, setStudentData] = useState(courseData ? courseData.roster.find(isAvatar) :  {})
 
-
     useEffect(() => {console.log(studentData)},[studentData])
+
     return (
         <>
             <Title />
-            <SubNav courseName={data.course.name} />
+            <SubNav courseSemester={courseData.semester} courseName={courseData.name} />
             <AvatarBlurbSection
                 img={studentData.avatar360Gif.file}
                 name={studentData.avatar.name}
@@ -42,10 +40,15 @@ function ProfilePage(props) {
                 src={studentData.avatarEnvImg.file}
                 altText={studentData.avatarEnvImg.altText}
             />
-            <AvatarConnectionSection
-                student={studentData.name}
-                quote={studentData.avatar.connection}
-            />
+            <div style={{backgroundColor: studentData.styles.background, color: studentData.styles.color}}>
+                <AvatarConnectionSection
+                    avatarImg={studentData.avatarGif.file}
+                    altText={studentData.avatarGif.altText}
+                    studentName={studentData.student}
+                    quote={studentData.avatar.connection}
+                />
+            </div>
+            <Footer />
         </>
     )
 }

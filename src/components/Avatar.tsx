@@ -6,7 +6,7 @@ function Avatar(props) {
         <>
             <Link  to={"/class/"+props.c+"/profile/"+props.avatar.name}>
                 <img
-                    className=""
+                    className="rounded-3xl"
                     src={props.avatarGif.file}
                     alt={props.avatarGif.altText}
                 />

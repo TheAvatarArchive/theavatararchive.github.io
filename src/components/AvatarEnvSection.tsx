@@ -5,7 +5,7 @@ function AvatarEnvSection({src, altText} ) {
     return (
         <div className="">
             <img
-                className="w-full h-full object-cover object-top"
+                className="w-screen h-full"
                 src={src}
                 alt={altText}
             />

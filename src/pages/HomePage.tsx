@@ -1,5 +1,6 @@
 import {Link, useParams} from "react-router";
 import Title from "../components/Title.tsx";
+import Footer from "../components/Footer.tsx";
 
 
 function HomePage(props) {
@@ -30,6 +31,7 @@ function HomePage(props) {
                         </ul>
                     </div>
                 </div>
+                <Footer />
             </div>
         </>
     )

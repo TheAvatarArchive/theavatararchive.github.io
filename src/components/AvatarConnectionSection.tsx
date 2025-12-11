@@ -1,21 +1,22 @@
-import Avatar from "./Avatar.tsx";
 
-function AvatarConnectionSection({quote, student}) {
+function AvatarConnectionSection({ avatarImg, altText, quote, studentName}) {
 
     return (
-        <div className=" ">
-            <div className="p-40">
-                {/*<Avatar  />*/}
-            </div>
-            <div className="flex flex-col justify-center">
-                <div className="text-xl font-semibold uppercase mb-6">
-                    My Connection
+        <div className="w-full h-screen">
+            <div className="grid grid-cols-2 gap-16 w-4/5 m-auto">
+                <div className="pt-55">
+                    <img src={avatarImg} alt={altText} className="rounded-4xl" />
                 </div>
-                <div className="text-xxl pr-40">
-                    "{quote}"
-                </div>
-                <div>
-                    -- {student}
+                <div className="pt-80">
+                    <div className="text-xl font-semibold uppercase mb-6">
+                        My Connection
+                    </div>
+                    <div className="text-4xl italic mb-4">
+                        "{quote}"
+                    </div>
+                    <div>
+                        -- {studentName}
+                    </div>
                 </div>
             </div>
         </div>

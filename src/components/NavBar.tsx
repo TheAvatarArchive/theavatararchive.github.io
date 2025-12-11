@@ -17,7 +17,7 @@ function NavBar() {
     return (
         <div className="w-full border-b-2 border-primary-200">
             <Title />
-            <SubNav />
+            <SubNav  />
             {/*<div className="flex-none">*/}
             {/*    <div className="drawer drawer-end">*/}
             {/*        <input id="my-drawer" type="checkbox" className="drawer-toggle"/>*/}

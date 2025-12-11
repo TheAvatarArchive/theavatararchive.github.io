@@ -15,20 +15,20 @@
           "connection": "She left me roses boiy the staoirs"
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/bartholomew-elijah/barghest-animation.gif",
+          "file": "/src/assets/semester/fall-2025/am-roster/abarta-luna/crimson-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/bartholomew-elijah/barghest-rotation.gif",
+          "file": "/src/assets/semester/fall-2025/am-roster/abarta-luna/crimson-rotation.gif",
           "altText": "Full 360 view of Barghests' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/bartholomew-elijah/barghest-world.jpg",
+          "file": "/src/assets/semester/fall-2025/am-roster/abarta-luna/crimson-world.jpg",
           "altText": ""
         },
         "styles": {
-          "background": "016400",
-          "text": " "
+          "background": "#B00B69",
+          "text": "#69D1CC"
         }
       },
       {
@@ -53,8 +53,8 @@
           "altText": ""
         },
         "styles": {
-          "background": "016400",
-          "text": " "
+          "background": "#006400",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -79,8 +79,8 @@
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#FF7D22",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -105,8 +105,8 @@
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#950606",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -131,8 +131,8 @@
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#eaf2cc",
+          "text": "#25292b"
         }
       },
       {
@@ -157,8 +157,8 @@
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#069347",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -183,8 +183,8 @@
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#36013D",
+          "text": "#E4F7F7"
         }
       },
       {
@@ -197,20 +197,20 @@
           "connection": "I connect to Marty-Moon because I am a highly intuitive individual and enjoy helping and inspiring people and passing out love."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/grose-kia/marymoon-animation.gif",
+          "file": "/src/assets/semester/fall-2025/am-roster/grose-kia/martymoon-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/grose-kia/marymoon-rotation.gif",
+          "file": "/src/assets/semester/fall-2025/am-roster/grose-kia/martymoon-rotation.gif",
           "altText": "Full 360 view of  character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/grose-kia/marymoon-world.jpg",
+          "file": "/src/assets/semester/fall-2025/am-roster/grose-kia/martymoon-world.jpg",
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#231030",
+          "text": "#bdb8bf"
         }
       },
       {
@@ -235,8 +235,8 @@
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#222222",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -261,8 +261,8 @@
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#4b0082",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -287,8 +287,8 @@
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#2D3F77",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -313,8 +313,8 @@
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#632626",
+          "text": "#F4B3B3"
         }
       },
       {
@@ -339,8 +339,8 @@
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#F0C808",
+          "text": "#0B0033"
         }
       },
       {
@@ -365,8 +365,8 @@
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#0E054D",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -391,8 +391,8 @@
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#363636",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -417,8 +417,8 @@
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#34c6eb",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -443,8 +443,8 @@
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#fc4d92",
+          "text": "#c8eb4e"
         }
       },
       {
@@ -469,8 +469,8 @@
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#413B80",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -495,8 +495,8 @@
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#862fc4",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -521,8 +521,8 @@
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#00E7FF",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -547,8 +547,8 @@
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#CE0235",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -573,8 +573,8 @@
           "altText": ""
         },
         "styles": {
-          "background": " ",
-          "text": " "
+          "background": "#E0B12D",
+          "text": "#FFF9F3"
         }
       }
     ]
@@ -605,6 +605,10 @@
         "avatarEnvImg": {
           "file": "/src/assets/semester/fall-2025/pm-roster/cole-nash/sevaw-world.jpg",
           "altText": ""
+        },
+        "styles": {
+          "background": "#75596E",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -627,6 +631,10 @@
         "avatarEnvImg": {
           "file": "/src/assets/semester/fall-2025/pm-roster/duenas-damian/scruffy-world.png",
           "altText": ""
+        },
+        "styles": {
+          "background": "#766600",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -649,10 +657,14 @@
         "avatarEnvImg": {
           "file": "/src/assets/semester/fall-2025/pm-roster/fabros-martin/narly-world.jpg",
           "altText": "Narly looking in his room"
+        },
+        "styles": {
+          "background": "#776C82",
+          "text": "#FFF9F3"
         }
       },
       {
-        "student": "Aly",
+        "student": "Aly Farr",
         "avatar": {
           "name": "Aly",
           "tagline": "The brightest and happiest of all",
@@ -671,6 +683,10 @@
         "avatarEnvImg": {
           "file": "/src/assets/semester/fall-2025/pm-roster/farr-aly/aly-world.jpg",
           "altText": ""
+        },
+        "styles": {
+          "background": "#84A98C",
+          "text": "#354F52"
         }
       },
       {
@@ -693,6 +709,10 @@
         "avatarEnvImg": {
           "file": "/src/assets/semester/fall-2025/pm-roster/garcia-harry/martin-world.jpg",
           "altText": ""
+        },
+        "styles": {
+          "background": "#766600",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -705,16 +725,20 @@
           "connection": "I love cars"
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/halimi-shabir/masih-animation.gif",
+          "file": "/src/assets/semester/fall-2025/pm-roster/halimi-shabir/masih-animation.jpg",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/halimi-shabir/masih-rotation.gif",
+          "file": "/src/assets/semester/fall-2025/pm-roster/halimi-shabir/masih-rotation.jpg",
           "altText": "Full 360 view of Masihs' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/halimi-shabir/masih-world.",
+          "file": "/src/assets/semester/fall-2025/pm-roster/halimi-shabir/masih-world.jpg",
           "altText": ""
+        },
+        "styles": {
+          "background": "#766600",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -737,6 +761,10 @@
         "avatarEnvImg": {
           "file": "/src/assets/semester/fall-2025/pm-roster/harden-lauren/mina-world.jpg",
           "altText": ""
+        },
+        "styles": {
+          "background": "#FFD6E8",
+          "text": "#0B1215"
         }
       },
       {
@@ -754,11 +782,15 @@
         },
         "avatar360Gif": {
           "file": "/src/assets/semester/fall-2025/pm-roster/hawkins-jaleesa/maisha-rotation.gif",
-          "altText": "Full 360 view of Bananamans' body"
+          "altText": "Full 360 view of Maishas'' character design"
         },
         "avatarEnvImg": {
           "file": "/src/assets/semester/fall-2025/pm-roster/hawkins-jaleesa/maisha-world.jpg",
           "altText": ""
+        },
+        "styles": {
+          "background": " ",
+          "text": " "
         }
       },
       {
@@ -781,6 +813,10 @@
         "avatarEnvImg": {
           "file": "/src/assets/semester/fall-2025/pm-roster/klawitter-brennan/mrchip-world.jpg",
           "altText": ""
+        },
+        "styles": {
+          "background": "#FFA500",
+          "text": "#2832C2"
         }
       },
       {
@@ -803,6 +839,10 @@
         "avatarEnvImg": {
           "file": "/src/assets/semester/fall-2025/pm-roster/krill-zoe/quailbur-world.jpg",
           "altText": ""
+        },
+        "styles": {
+          "background": "#4E4219",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -825,6 +865,10 @@
         "avatarEnvImg": {
           "file": "/src/assets/semester/fall-2025/pm-roster/moreno-megan/petal-world.jpg",
           "altText": ""
+        },
+        "styles": {
+          "background": "#83C881",
+          "text": "#863391"
         }
       },
       {
@@ -847,6 +891,10 @@
         "avatarEnvImg": {
           "file": "/src/assets/semester/fall-2025/pm-roster/palma-ronny/atlas-world.jpg",
           "altText": ""
+        },
+        "styles": {
+          "background": "#154D07",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -869,6 +917,10 @@
         "avatarEnvImg": {
           "file": "/src/assets/semester/fall-2025/pm-roster/richardson-liam/ipsofacta-world.jpg",
           "altText": ""
+        },
+        "styles": {
+          "background": "#7B00A6",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -881,16 +933,20 @@
           "connection": "I have a facination towards creature designs based on concepts. This one in particular I created based on my own feelings and memories."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/rios-forrest/reminicience-animation.gif",
+          "file": "/src/assets/semester/fall-2025/pm-roster/rios-forrest/remi-animation.gif",
           "altText": "Reminicience floating"
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/rios-forrest/reminicience-rotation.gif",
+          "file": "/src/assets/semester/fall-2025/pm-roster/rios-forrest/remi-rotation.gif",
           "altText": "Full 360 view of Reminiciences' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/rios-forrest/reminicience-world.jpg",
+          "file": "/src/assets/semester/fall-2025/pm-roster/rios-forrest/remi-world.jpg",
           "altText": ""
+        },
+        "styles": {
+          "background": "#0F0628",
+          "text": "#FBDA6B"
         }
       },
       {
@@ -903,16 +959,20 @@
           "connection": "I Like silly superheros with masks and cool powers!"
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/robertson-william/zingularity-animation.gif",
+          "file": "/src/assets/semester/fall-2025/pm-roster/robertson-william/zing-animation.gif",
           "altText": "Zingularity floating in front of a black hole"
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/robertson-william/zingularity-rotation.gif",
+          "file": "/src/assets/semester/fall-2025/pm-roster/robertson-william/zing-rotation.gif",
           "altText": "Full 360 view of Zingularitys' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/robertson-william/zingularity-world.jpg",
+          "file": "/src/assets/semester/fall-2025/pm-roster/robertson-william/zing-world.jpg",
           "altText": ""
+        },
+        "styles": {
+          "background": "#29465B",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -935,6 +995,10 @@
         "avatarEnvImg": {
           "file": "/src/assets/semester/fall-2025/pm-roster/thompson-zach/tock-world.jpg",
           "altText": ""
+        },
+        "styles": {
+          "background": "#A87A58",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -957,6 +1021,10 @@
         "avatarEnvImg": {
           "file": "/src/assets/semester/fall-2025/pm-roster/vasquez-isaac/sean-world.jpg",
           "altText": ""
+        },
+        "styles": {
+          "background": "#766600",
+          "text": "#FFF9F3"
         }
       },
       {
@@ -979,28 +1047,62 @@
         "avatarEnvImg": {
           "file": "/src/assets/semester/fall-2025/pm-roster/vega-kenny/beastie-world.jpg",
           "altText": ""
+        },
+        "styles": {
+          "background": "#55585e",
+          "text": "#2FB8EC"
         }
       },
       {
         "student": "Tyler Weinstein",
         "avatar": {
-          "name": "Drakov `The Monster`",
+          "name": "Drakov \"The Monster\"",
           "tagline": "A curious oni typing to live with humans",
           "about": "Drakov is an oni who has lived over 1000 years. His purple skin was considered a rarity among oni. Drakov was different from the others in another way, being interested in humans. Unfortunately, talking to them was just not possible. Oni were known for killing humans for sport, so it made sense that humans didn’t trust him or any others. Drakov first tried to talk to humans, entering a village, but it only led to feared lives and arrows. However, that didn’t stop him from taking items from humans, grabbing anything and everything that looked interesting, including his pants and jacket. Hopefully one day humans will be more accepting and he can live peacefully with them.",
           "world": "Drakov’s house is nothing short of a crude place held together by planks and prayers. Built over 100 years ago, this cabin was meant for an older couple living on the edge of a rural settlement. However, it was promptly abandoned after a supposed “sighting” of the monster was seen in the forest nearby. About 10 years ago, the house was found by Drakov, who wanted to be accepted by humans, and thought that this house would be perfect for living and moved in. Hoping to find many cool trinkets and gizmos humans have, he was soon disappointed to find the house completely barren. This led to Drakov starting to “borrow” some items from the bigger town. Over the course of 10 years, he stole many objects to make the cabin more of a home, taking anything from a stuffed animal all the way to a bed. Unfortunately, this led to the cabin being included in the urban legend of “the monster” leading to teens trying to find his home. Hopefully nothing bad happens from this.",
           "connection": "Drakov represents me trying to fit in with others, in my own way."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/drakov-animation.gif",
+          "file": "/src/assets/semester/fall-2025/pm-roster/weinstein-tyler/drakov-animation.gif",
           "altText": "Drakov holding a fork outside"
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/pm-roster/drakov-rotation.gif",
+          "file": "/src/assets/semester/fall-2025/pm-roster/pm-roster/weinstein-tyler/drakov-rotation.gif",
           "altText": "Full 360 view of Drakovs' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/pm-roster/drakov-world.jpg",
+          "file": "/src/assets/semester/fall-2025/pm-roster/pm-roster/weinstein-tyler/drakov-world.jpg",
           "altText": ""
+        },
+        "styles": {
+          "background": "#704a82",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Diego Gonzalez",
+        "avatar": {
+          "name": "Amoebruh",
+          "tagline": "The Greatest Guardian\n",
+          "about": "Amoebruh is a vibrant, hyper-malleable, creature whose entire body ripples with neon energy and swirling psychelic colors. He has the ability to morph into any size he wants from the size of a nickel to as big as a skyscraper.\n\n",
+          "world": "Cell City is a permanently electric blue twilight sky filled with giant glowing microbes that float above the towering spires of the city, sleek buildings that serve as receivers of the moons energy. A living cellular moon sits in the center of the world. The outer walls stretch, shift and divide. These serve as borders they're alive and prevent the worlds bio-energies from spilling out into the void.\n\n",
+          "connection": "I created this character because like him I evolve & adapt to my environment, in a world that is constantly changing."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/gonzales-diego/amoebruh-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/pm-roster/gonzales-diego/amoebruh-rotation.gif",
+          "altText": "Full 360 view of Amoebruhs' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/pm-roster/gonzales-diego/amoebruh-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#F3F56E",
+          "text": "#0B1215"
         }
       }
     ]
