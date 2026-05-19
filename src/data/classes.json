@@ -1106,5 +1106,507 @@
         }
       }
     ]
+  },
+  {
+    "id": "2",
+    "semester": "Spring-2026",
+    "name": "SPRING",
+    "time": "Evening Class",
+    "roster": [
+      {
+        "student": " ",
+        "avatar": {
+          "name": "Orpheus \"Orphie\" Valencia",
+          "tagline": "I will fight for you no matter the cause of danger, I'm not alone in this world.",
+          "about": "Orpheus “Orphie” Valencia is a friendly 17-year-old male anthropomorphic devil-bat hybrid, wearing an orange spiked choker around his neck, standing approximately 5 '3 feet tall and weighs 89 pounds, who grew up living in a family-owned luxurious mansion with a family of 5 since he was a newborn baby in an urban city called “Mystville”, where all mythical creatures and mixed animal hybrids from around the world live in peace. As a child, he used to be an outcast and a laughing-stock that nobody wanted to be friends with due to his uniquely dark and rare appearance after being bullied, falsely blamed on, and hated on by everyone in the past until he met Lycus Timberwolf. He was once a healthy and able-bodied individual until at the age of 12, he discovered that he was diagnosed with schizophrenia and post-traumatic stress disorder and no matter where he goes, he even happens to experience hallucinations that make him hear voices or see things that don’t exist, trembling every day, and nightmares every night which affect his social reputation and daily life, but he can always overcome his fears. For fun, he likes his family, his friends (especially Lycus Timberwolf), aerial activities, outdoor adventures, reading books, and listening to Lo-Fi music. He also has special abilities such as “Vanish” (a.k.a Shadow Teleportation Dash), Open Portal, Dark Beam, Night Vision, Darkness Healing, Dark Matter Shield, Umbrakinetic Blast only during battles and his goal is to protect Mystville from Cryptidapolis’ attack to prove that he’s a hero, not a threat to society.",
+          "world": "Orpheus lives in a luxurious mansion that is painted white with a glossy marbled material and thinly gilded everywhere on the walls from shiny golden flooring to illuminating chandeliers with the red accent color where he spends his time, playing video games on the computer on the 2nd floor bedroom to share with his older brother, Akakios. His father Ivor, loves playing the pipe organ, his mother, Arushi, always makes sure nothing bad happens to her children, his 23-year-old brother, Akakios, loves reading his favorite magazines, his 14-year-old sister, Scarlet, loves anything that matters to her, and his pet bat-winged puppy-dragon-pig named Ignis, is well-behaved and loves to run around in the backyard. Outside of his home, Mystville is a fictional urban city blended with tall and huge skyscrapers made of shiny glass and crystals, some smaller buildings are constructed with cedar wood, oak, concrete, or stone, and some are overgrown with grass, leaves, bushes, vines or flowers. Everywhere there is a crowd of local citizens walking by on the streets from place to place. Beyond the city, there are magical forests that represent national parks.",
+          "connection": "I was inspired by fictional anthropomorphic characters from video games, and anime to Shonen Jump manga series that involve mythical creatures and animal hybrids with different special ability types."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "# ",
+          "text": "# "
+        }
+      },
+      {
+        "student": " ",
+        "avatar": {
+          "name": " ",
+          "tagline": " ",
+          "about": " ",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "# ",
+          "text": "# "
+        }
+      },
+      {
+        "student": " ",
+        "avatar": {
+          "name": " ",
+          "tagline": " ",
+          "about": " ",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "# ",
+          "text": "# "
+        }
+      },
+      {
+        "student": " ",
+        "avatar": {
+          "name": " ",
+          "tagline": " ",
+          "about": " ",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "# ",
+          "text": "# "
+        }
+      },
+      {
+        "student": " ",
+        "avatar": {
+          "name": " ",
+          "tagline": " ",
+          "about": " ",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "# ",
+          "text": "# "
+        }
+      },
+      {
+        "student": " ",
+        "avatar": {
+          "name": " ",
+          "tagline": " ",
+          "about": " ",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "# ",
+          "text": "# "
+        }
+      },
+      {
+        "student": " ",
+        "avatar": {
+          "name": " ",
+          "tagline": " ",
+          "about": " ",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "# ",
+          "text": "# "
+        }
+      },
+      {
+        "student": " ",
+        "avatar": {
+          "name": " ",
+          "tagline": " ",
+          "about": " ",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "# ",
+          "text": "# "
+        }
+      },
+      {
+        "student": " ",
+        "avatar": {
+          "name": " ",
+          "tagline": " ",
+          "about": " ",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "# ",
+          "text": "# "
+        }
+      },
+      {
+        "student": " ",
+        "avatar": {
+          "name": " ",
+          "tagline": " ",
+          "about": " ",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "# ",
+          "text": "# "
+        }
+      },
+      {
+        "student": " ",
+        "avatar": {
+          "name": " ",
+          "tagline": " ",
+          "about": " ",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "# ",
+          "text": "# "
+        }
+      },
+      {
+        "student": " ",
+        "avatar": {
+          "name": " ",
+          "tagline": " ",
+          "about": " ",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "# ",
+          "text": "# "
+        }
+      },
+      {
+        "student": " ",
+        "avatar": {
+          "name": " ",
+          "tagline": " ",
+          "about": " ",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "# ",
+          "text": "# "
+        }
+      },
+      {
+        "student": " ",
+        "avatar": {
+          "name": " ",
+          "tagline": " ",
+          "about": " ",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "# ",
+          "text": "# "
+        }
+      },
+      {
+        "student": " ",
+        "avatar": {
+          "name": " ",
+          "tagline": " ",
+          "about": " ",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "# ",
+          "text": "# "
+        }
+      },
+      {
+        "student": " ",
+        "avatar": {
+          "name": " ",
+          "tagline": " ",
+          "about": " ",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "# ",
+          "text": "# "
+        }
+      },
+      {
+        "student": " ",
+        "avatar": {
+          "name": " ",
+          "tagline": " ",
+          "about": " ",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "# ",
+          "text": "# "
+        }
+      },
+      {
+        "student": " ",
+        "avatar": {
+          "name": " ",
+          "tagline": " ",
+          "about": " ",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "# ",
+          "text": "# "
+        }
+      },
+      {
+        "student": " ",
+        "avatar": {
+          "name": " ",
+          "tagline": " ",
+          "about": " ",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/spring-2026/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "# ",
+          "text": "# "
+        }
+      }
+    ]
   }
 ]
