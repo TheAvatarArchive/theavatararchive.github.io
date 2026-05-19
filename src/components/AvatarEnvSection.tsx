@@ -1,11 +1,13 @@
-function AvatarEnvSection() {
+
+
+function AvatarEnvSection({src, altText} ) {
 
     return (
         <div className="">
             <img
-                className="w-full h-full bject-cover object-top"
-                src="../../public/BananaManEnviornment.jpg"
-                alt="BananaMan"
+                className="w-screen h-full"
+                src={src}
+                alt={altText}
             />
         </div>
     )

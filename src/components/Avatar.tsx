@@ -1,15 +1,17 @@
-import { Link } from "react-router";
+import {Link} from "react-router";
 
-function Avatar() {
+function Avatar(props) {
 
     return (
-        <Link to="/AvatarProfilePage">
-            <img
-                className="mask mask-square rounded-3xl w-full h-full"
-                src="../../public/BananaMan.gif"
-                alt="BananaMan"
-            />
-        </Link>
+        <>
+            <Link  to={"/class/"+props.c+"/profile/"+props.avatar.name}>
+                <img
+                    className="rounded-3xl"
+                    src={props.avatarGif.file}
+                    alt={props.avatarGif.altText}
+                />
+            </Link>
+        </>
     )
 }
 

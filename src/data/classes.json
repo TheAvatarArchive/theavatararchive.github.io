@@ -1,0 +1,1110 @@
+[
+  {
+    "id": "0",
+    "semester": "Fall-2025",
+    "name": "70914",
+    "time": "Morning Class",
+    "roster": [
+      {
+        "student": "Luna Abarta",
+        "avatar": {
+          "name": "Crimson",
+          "tagline": "because tonight will be the noight that i will fall for youuugh",
+          "about": "Crimson is a persona born and raised from the ashes of dated culture and fashion. He jumps around spooky/liminal spaces like abandoned train stations and rooftops. Sporting all black, Crimson is invisible to us, but he’s always there and has a deep understanding of our emotions. Inspired by 2-D of Gorillaz, Crimson headlines a virtual band in attempt to make his voice heard.",
+          "world": "Crimson's world is always changing, jumping from location to location. This is an abandoned parking garage, one of his many regular locations. Everywhere he visits he leaves remnants of himself, like the amp on the ground and the candle.",
+          "connection": "She left me roses boiy the staoirs"
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/abarta-luna/crimson-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/abarta-luna/crimson-rotation.gif",
+          "altText": "Full 360 view of Barghests' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/abarta-luna/crimson-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#B00B69",
+          "text": "#69D1CC"
+        }
+      },
+      {
+        "student": "Elijah Thompson",
+        "avatar": {
+          "name": "Barghest",
+          "tagline": "Where scales meet steel",
+          "about": "Barghest is a dragonkin knight the resides in a sweltering hot cave near the mouth of a volcano, his draconic heritage aiding in shielding him from the heat that would melt any human. With every breath his nostrils curl and release a huff of smoke, he reeks of ash which is a reminder to him and everyone else of the inferno he calls home. Donned with a full suit of armor, a claymore slung across his back and a battered and burnt greashield he always has with him turns Barghest into a walking fortress. Though animalistic in appearance, Barghest is a knight by nature. He is bound to his duty and loyal to his home, Barghest has not spent centuries surviving and fighting just for glory, but to protect the molten wasteland he calls home. Barghest is a smoke shrouded legend whose oath has outlasted entire empires",
+          "world": "Barghest spends his nights resting in a hollowed out cave near a volcano field. In his cave he has a perfect view facing out, letting him see all the stars and erupting volcanos near his home. He constantly has to protect his home from knights attempting to kill him and loot him of his belongings and treasures. Having yet to lose a fight, Barghest has stockpiling on the gear of all his fallen foes. Due to his knightly nature, he is unable to leave them to be eaten away by the harsh environment they stormed into, he buries them in his cave, honoring their fruitless attempts at ending him by branding their graves with the gear they died in.",
+          "connection": "I love knights"
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/bartholomew-elijah/barghest-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/bartholomew-elijah/barghest-rotation.gif",
+          "altText": "Full 360 view of Barghests' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/bartholomew-elijah/barghest-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#006400",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Aidan Carter",
+        "avatar": {
+          "name": "Cosmic Sheriff",
+          "tagline": "You've yeed your last yaw bucko",
+          "about": "An ageless sentinel forged in the heart of a dying star, this humanoid guardian roams the galaxy with a cowboy’s swagger and a blacksmith’s fury. Cloaked in a scorched duster and crowned with a weathered hat, he channels blue flame through relic weapons — a revolver that hums with solar resonance, and a blade or axe that ignites with righteous fury. His arsenal may echo the Old West, but his purpose is timeless: to defend the stars from chaos, one smoldering showdown at a time. Where others see fire as destruction, he wields it as justice.",
+          "world": "Born of molten steel and eternal flame, the Forge-class cruiser is less a vessel than a living anvil of the cosmos. Its hull glows with ember veins, hammered into shape by celestial smiths, every thruster a roaring furnace. This ship doesn’t just travel the stars—it tempers them, carrying the weight of industry and the artistry of fire into the void.",
+          "connection": "I definitely took inspiration from my Destiny 2 Guardian cuz we all know fashion is the ture endgame"
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/carter-aidan/cosmicsheriff-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/carter-aidan/cosmicsheriff-rotation.gif",
+          "altText": "Full 360 view of Cosmic Sheriffs' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/carter-aidan/cosmicsheriff-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#FF7D22",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Evan Garcia-Dolkhani",
+        "avatar": {
+          "name": "Logan Grieves",
+          "tagline": "A once pure spirit tainted by the lust of revenge",
+          "about": "Logan Fairmont is a stylized knight forged from sorrow and fire, his soul forever marked by the day the dragon laid waste to the once-prosperous kingdom of Westvale. Once a charismatic and joyful man, Logan’s life was shattered when the beast torched his city and took his beloved wife from him. Now in his early thirties—though emotionally aged far beyond—he wanders the realm a hardened warrior, his presence as heavy as the full plate armor he wears. The red cape draped across his back billows like a lingering ember from the fire that ruined him, and though his body moves with practiced precision, it is pain that guides his blade. A burned photograph of his wife, clutched close to his heart beneath steel and sorrow, is all that remains of the man he used to be.",
+          "world": "The realm he wanders is a land caught between rebirth and ruin. Westvale, once a jewel of rolling green hills and warm stone cities, now lies in various stages of decay. Charred beams jut from collapsed rooftops like skeletal fingers, and the once-bustling market squares echo only with the wind pushing ash across broken cobblestones. Where laughter once rang, silence now rules. Beyond the ruins, the countryside struggles to heal. Fields slowly return to gold and green, though here and there the earth is still blackened, as if the dragon’s fire never truly went out. Trees stand half-burned—one side vibrant with leaves, the other a husk, mirroring the duality of a land still fighting to reclaim itself.",
+          "connection": "I love D&D, and I love knights!!!"
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/garcia-evan/logan-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/garcia-evan/logan-rotation.gif",
+          "altText": "Full 360 view of character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/garcia-evan/logan-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#950606",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Diana Gesser",
+        "avatar": {
+          "name": "MEMO",
+          "tagline": "Your little engine for inspiration",
+          "about": "Memo is passionate about brainstorming, exploring ideas, and supporting users in artistic projects. With a wide array of knowledge across creative programs, Memo’s greatest strength lies in guiding and inspiring people when they feel stuck. Beyond being useful, Memo also serves as a kind of virtual pet or Tamagotchi, bringing entertainment and company to its user. Its most distinguishing feature is its expressiveness. Memo always wears a bold emotion on its face, making it instantly engaging. For me, Memo is a reflection of what I wish existed: a digital companion that helps spark creativity, lightens overwhelming moments, and keeps the process both productive and enjoyable. It’s more than just an avatar, it’s a creative partner and a little reminder that even online, inspiration can come with a smile.",
+          "world": "Memo’s world exists inside the computer—an imaginary digital space that can become whatever the user wants it to be. It’s timeless but inspired by the present, reflecting the environment of a creative individual. The space is organized, bright, and filled with natural elements like plants and light, showing Memo’s good taste and love for calm surroundings. In this composition, Memo is shown thinking, one of its main functions. The scene represents creativity, focus, and organization, showing how Memo brings ideas to life in a world designed for imagination and inspiration.",
+          "connection": "I wanted a creative companion who could jump into ideas with me, keep the energy high, and help me move forward whenever I felt stuck in the creative process or the inspiration slowed down."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/gesser-diana/memo-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/gesser-diana/memo-rotation.gif",
+          "altText": "Full 360 view of  character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/gesser-diana/memo-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#eaf2cc",
+          "text": "#25292b"
+        }
+      },
+      {
+        "student": "Skye Goldbaum",
+        "avatar": {
+          "name": "Bubbles",
+          "tagline": "Little green explorer from outer space",
+          "about": "Bubbles is a small, green alien from a faraway galaxy. Feeling like an outcast on his home planet, Bubbles explores the universe studying different planets and looking for a new place to call home. Bubbles can be shy when first meeting new people, but is very friendly once he is comfortable with you. He’ll squeak your ear off if you let him. He likes to craft gifts for his friends, especially the other fish in the fish tank.",
+          "world": "Bubbles currently resides in a fish tank. They use their spaceship for boarding. It started out dreary and gray, but Bubbles likes to add souvenirs from their travels to liven up the space. The fish tank itself has a retro-2000s vibe, with colorful pebbles, fun decor, and happy fish.",
+          "connection": "I sometimes feel like an outsider, or alien, and Bubbles represents that. I also just like drawing cute aliens."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/goldbaum-skye/bubbles-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/goldbaum-skye/bubbles-rotation.gif",
+          "altText": "Full 360 view of Memos' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/ggoldbaum-skye/bubbles-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#069347",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Adrian Gonzalez",
+        "avatar": {
+          "name": "Mystic",
+          "tagline": "I bet the butler did it! I saw it on a show!",
+          "about": "Mystic is a wannabe detective, constantly going to different crimes scenes and attempts to solve the crimes on their own to some success. Likes to vanish with the flicker of the lights or with a strike of thunder using their inherent control over electricity. Office only has one light above their desk as to emphasize their mysterious feel.",
+          "world": "The world is gritty and full of corruption, crime runs rampant and theres little safety. There is a set of few indivduals in this decrepid city that hold enough power to make some places safe, but some only do it for a price. While it may be tough, a shred of kindness can push through you just have to try.",
+          "connection": "Ride the ride, the world as your steed! I made this as a story for myself to tell, of fun, of chaos, and a light in the dark."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/gonzales-adrian/mystic-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/gonzales-adrian/mystic-rotation.gif",
+          "altText": "Full 360 view of Mystic character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/gonzales-adrian/mystic-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#36013D",
+          "text": "#E4F7F7"
+        }
+      },
+      {
+        "student": "Kia Grose",
+        "avatar": {
+          "name": "Marty-Moon",
+          "tagline": "The Psychic Empath Space Cat",
+          "about": "Marty-Moon is a shy, highly intuitive psychic empath cat who mildly is on the Spectrum He has limited purring, however his sight, smell, and intuition is super sensitive. His ability to detect danger or harm and his accurate premonition makes him a Healer and a big furball of positive spiritual energy. Marty-Moon navigates around by his jetpack in the dreamspace and outer space realms helpoing people and aliens with their mental and spiritual challenges. He brings enlightenment and inspirational awareness in overcoming obstacles and life's challenges. His favorite resting spot is his cat tree on the Moon where he goes to rest and meditate and reset.",
+          "world": "Marty-Moon's world is in outer space with his cat tree and his lazy boy with flying carpet and hologram projector. his world is full of fluffy rainbow colored clouds and stars making for a whimsical atmosphere. He has two moons in his universe that represent the yin and the yang. These moons are also part of his travel portals to the dream world and other planets.",
+          "connection": "I connect to Marty-Moon because I am a highly intuitive individual and enjoy helping and inspiring people and passing out love."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/grose-kia/martymoon-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/grose-kia/martymoon-rotation.gif",
+          "altText": "Full 360 view of  character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/grose-kia/martymoon-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#231030",
+          "text": "#bdb8bf"
+        }
+      },
+      {
+        "student": "Lucas Guillote",
+        "avatar": {
+          "name": "Mixinmatch",
+          "tagline": " ",
+          "about": "",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/guillote-lucas/mixinmatch-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/guillote-lucas/mixinmatch-rotation.gif",
+          "altText": "Full 360 view of  character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/guillote-lucas/mixinmatch-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#222222",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Drew Matthew Gutierre",
+        "avatar": {
+          "name": "Gutierrez 2038",
+          "tagline": "Evolving vision, from launchpad to life",
+          "about": "In the year 2038, Drew Matthew Gutierrez stands as a driven aerospace engineer in his early thirties, having earned his BS from Cal Poly San Luis Obispo and a Master’s degree soon after. He now thrives at NAVSEA—or a top-tier defense contractor—where his technical precision and systems thinking shape the future of national security. The journey wasn’t easy: Drew weathered the rigors of academia and the steep learning curve of professional life with grit and reflection. With his career firmly rooted, he’s turning toward life’s next frontier—building a home, starting a family, and exploring what fulfillment looks like beyond the launchpad. His avatar embodies not just achievement, but the quiet strength of someone who never stopped evolving.",
+          "world": "Lambda Bay is a future-adjacent world where aerospace precision meets digital authorship—a stylized fusion of rockets, drones, and engineered furniture nested in a high-rise workspace overlooking a vigilant yet peaceful skyline. It is 2038, and I have evolved into a systems-minded aerospace engineer, shaped by Cal Poly SLO, a Master’s degree, and the crucible of defense innovation. My avatar stands calmly amid fighter jets and fireworks, which embodies both a sense of preparedness, as well as introspection. The environment is geometric and expressive—deep blues, greys, and neon punctuate glass, metal, and hardwood surfaces. Inside, the decor blends nostalgia and critique: rocket models, Newton’s cradle, and lambda symbolism signal a workflow optimized for ideation. In summation, Lambda Bay is not just a mere technical habitat—it is a thesis on identity, authorship, and emotional resonance! Lambda Bay is where I build, reflect, and prepare for the next frontier, whether it be in the form of a home, a family, or other forms of fulfillment beyond the launchpad.",
+          "connection": "One day, this could be me, myself, and I—at least, I hope so, anyway!"
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/gutierrez-drew/gutierrezd-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/gutierrez-drew/gutierrezd-rotation.gif",
+          "altText": "Full 360 view of  character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/gutierrez-drew/gutierrezd-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#4b0082",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Sam Hernandez",
+        "avatar": {
+          "name": "Allister",
+          "tagline": "The Hallowed Seamstress",
+          "about": "Allister is a failed experiement created by someone who hates them. They’re made out of different stitched together body parts giving them an uncanny look with a permanent smile on their face. Allister is part of a family of four other experiments who they call their siblings. With nothing else to do and not being given a purpose in their life, they dedicated their life to do whatever pleases them. They picked up many hobbies such as playing violin and designing and sewing clothes that they make for their siblings. Allister lives on top of a snowy mountain all alone in a castle. Since Aliister is made out of random body parts, thy’re technically dead so their body doesn’t react you to the cold at all.",
+          "world": "Allister lives in a country called Camavor. It is a cold, lonely, and isolated country. It's peaceful living there, but everyone has the mentality of staying in their own lane and not caring about anyone other than themselves. It has a gothic Victorian stylization for people's houses. The houses have dull colors like blacks, grays, and browns. Allister lives in a castle on top of a mountain where it is always snowing. When you walk in Allister's house and in their room you see a very messy workspace. Papers are scattered everywhere on their desk and the floor. right next to his desk is their bed that they don't use at all, but decorate with a large photo of them and their partner who they love dearly. Allister's wall is covered in sketches for potential clothes ideas. Besides it is a mannequin to test fabric on and a shelf where the fabric is stored in.",
+          "connection": "I like making characters that I find pretty and a bit ugly."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/hernandez-sam/allister-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/hernandez-sam/allister-rotation.gif",
+          "altText": "Full 360 view of  character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/hernandez-sam/allister-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#2D3F77",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Lain Hill",
+        "avatar": {
+          "name": "Carrion",
+          "tagline": "Not the smartest pup in the park",
+          "about": "Bro is actually not a dog. They are some dog-like thing that is perpetually locked in a small dark closet until I, their creator, decides to take them out.They are more like a stylized persona and takes on a lot of what I like to do and what I put online or on social media. I draw, paint, and write and they kind of just do the same thing. Carrion is mostly used to put a to the name. I think of them a lot as some kind of mascot so they do not have a set personality or anything. They simply are whatever I need them to be in the moment.",
+          "world": "The only thing Carrion knows is the inside of a closet. They are not allowed to leave the closet unless I manually take them out. It is not connected to anything, it is simply just the room of the closet that exists on its own.",
+          "connection": "I am also not the smartest pup in the park"
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/hill-lain/carrion-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/hill-lain/carrion-rotation.gif",
+          "altText": "Full 360 view of  character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/hill-lain/carrion-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#632626",
+          "text": "#F4B3B3"
+        }
+      },
+      {
+        "student": "Diego Ibarra",
+        "avatar": {
+          "name": "Streeng Beeng",
+          "tagline": "He doesn't like to eat string beans",
+          "about": "Standing at 5 feet tall, this funky fella is half string bean, half human. He loves gardening, creating useful tools out of trash, and making blueprints of fantasy buildings and towers.",
+          "world": "Streeng Beeng lives on a planet called Earth. It's not our Earth, it's a different one. This Earth is covered with perfectly round hills, looking like grass covered half spheres sticking out of the ground.",
+          "connection": "I've always felt a little like Streeng Beeng. Limbs sticking out all janky and thin. Round bulbs for elbows jettisoning out. Feels weird, but I love diving into weird."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/ibarra-diego/streengbeeng-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/ibarra-diego/streengbeeng-rotation.gif",
+          "altText": "Full 360 view of  character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/ibarra-diego/streengbeeng-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#F0C808",
+          "text": "#0B0033"
+        }
+      },
+      {
+        "student": "Brianna Inzalaco",
+        "avatar": {
+          "name": "Ink by day. Battle by night",
+          "tagline": "Tatiana",
+          "about": "Before the war, Tatiana was a world-renowned tattoo artist,famous for her blackwork and biomechanical ink.Her LA studio, \"Black Needle\", catered to everyone from underground fighters to celebrities. But when the city fell into chaos, Tatiana traded ink for instinct and turned her tattoo gun into a deadly custom weapon. A high pressure coil gun built from her industrial tattoo machine. It fires heated needle like projectiles with amazing accuracy and speed and nerves of steel from years of precision tattooing, she became a battlefield artist.",
+          "world": "This Tatiana's living room space where she can be comfortable and get away from everything after being outside fighting. once she gets home she put her tattoo gun down and decides to chill and go to her desk area and draw and add more ammo towards her gun.",
+          "connection": "I love tattoos and want to become a tattoo artist and also love to play shooter games."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/inzalaco-brianna/tatiana-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/inzalaco-brianna/tatiana-rotation.gif",
+          "altText": "Full 360 view of  character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/inzalaco-brianna/tatiana-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#0E054D",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Victoria Kahoe",
+        "avatar": {
+          "name": "Felleg",
+          "tagline": "France's smallest, fattest, meanest gargoyle.",
+          "about": "Felleg isn’t lean, but he’s mean. A gargoyle specially designed to protect the Castle of Saint Gregory* alongside his stone siblings, Felleg spends his days moping and wishing he were bigger and stronger. His siblings’ harsh “encouragement” certainly doesn’t help his situation, leaving him feeling like his only friend is his food—macarons, a table, anything that can fit in his mouth. Felleg may not be big and strong but he’s rough and tough and doesn’t allow fear to get in his way. Impatient, impulsive, but not rock-brained enough to underestimate anybody, Felleg cruises through life with perhaps much to want but little to fear.*The castle described above is fictional, although in France there are Churches named after various St. Gregory’s. This is not one of them.",
+          "world": "Felleg resides in the Castle of Saint Gregory in France (1950). The Castle has stood the test of time and now hosts its old Gargoyles and the occasional tourist or adventurer. Felleg lives with all his Gargoyle siblings in a hierarchy of strength, one of which he ranks quite low. Felleg lives inside one of the castle towers, one which is quite broken (mostly by Felleg). Felleg has sparse furniture, mostly whatever he could scavenge or convince his siblings to get for him, although they stopped that a while ago because he has a bad habit of eating everything–the table, the carpet, even the frame for a painting of another gargoyle that he claims he found discarded, but testaments from the artist claim otherwise. He thinks that this could make his jaw and teeth stronger… and he also just likes to eat things. Anything really. He will eat anything in his tower–even the walls–but he wouldn’t dare even scratch his favorite lounge seat and his box of macarons. That would be unthinkable.",
+          "connection": "Felleg appeared to me in a dream one night, and I couldn't pass up on the opportunity to turn him into a cute little snot."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/kahoe-victoria/felleg-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/kahoe-victoria/felleg-rotation.gif",
+          "altText": "Full 360 view of  character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/kahoe-victoria/felleg-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#363636",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Chris Mazariego",
+        "avatar": {
+          "name": "JoeBro",
+          "tagline": "The wizard bum from Tougaloo, Mississippi",
+          "about": "My avatars name is Joe Bro. He is 27 years old and lives in rural Tougaloo, Mississippi. He is a hobo and hops around from different places and from different peoples living room couches. He only seeks pleasure in life. The story goes that he once worked on an offshore oil rig, hence the long gray beard despite the young age. Due to his brief stint at the rig he has become a bit deranged and schizophrenic. He spends a majority of his time at the local bars heavily drunk and attempting to showcase his so called “magic tricks.” In his mind he does all these fantastical tricks but in the eyes of other people watching he is just wailing around like a madman, so the locals just watch him in disdain and warn others to stay away from the crude smelly man.",
+          "world": "Environment My world is called Tougaloo. It is the name of the town my avatar lives in. This space takes place in the present. This place comes from a real location in Mississippi. Everything is peaceful in this world as far as my avatar is concerned. The overall look is very run down and poor. It is indoors and completely natural / realistic. When you walk in the first thing you notice how dirty, rundown, and nasty things are.",
+          "connection": "I can't relate to this avatar on a personal level, he was just some goofy avatar that I made."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/mazariego-chris/joebro-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/mazariego-chris/joebro-rotation.gif",
+          "altText": "Full 360 view of  character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/mazariego-chris/joebro-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#34c6eb",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Travis Merville",
+        "avatar": {
+          "name": "Daighaynnghe",
+          "tagline": "Red, White and BLUE EYES",
+          "about": "A red blooded AMERICAN woman with AMERICAN values. She’s a bright, bubbly country girl who adores horses, wide open skies, and the thrill of bold retro streetwear that absolutely clashes with her rustic lifestyle shes worn since the 80's; but she wears it all with fearless confidence. Cheerful and a touch dramatic, she’s always sharing the latest “big issue” she’s picked up from her social feed, convinced she’s stumbled onto something truly important. Though her old-fashioned views and reckless habits mean she more than oftan says the wrong thing without meaning to. She may come off as judgemental or dramatic, but never intentionally. She greets everyone with open arms, excited smiles, and an eagerness to show them around as if every corner of her world is something worth celebrating. Baking is her sanctuary, a place where she kneads her worries into dough and turns her stress into something sweet. Beneath that sunshiney exterior sits a soft ache of guilt; she worries her choices shaped a rougher life for her children than they deserved. Still, she pushes forward with stubborn optimism, her charm, hopefulness, and dramatic flair lighting up every room she enters... unless she's trying to steal the attention from said room to herself.",
+          "world": "Her family owns the main general store in a small hamlet named Woodgate Ridge, and they live on the second story in the condo upstairs. The town is small, and new developments tend to be even smaller; though everyone in the little village tend to see each other as family. The air has been different recently however, and as if rain to a storm, tragic fates follow closely behind.",
+          "connection": "Daighaynnghe is a (slightly) dramatized caricature of my own mother, Diana, even down to her name. She embodies many physical attributes and personal characteristics with her, though Daighaynnghe remains unique enough to stand alone. Think \"my mom\" meets \"drag queen\". ♡xoxo gossip girl♡"
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/merville-travis/dn-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/merville-travis/dn-rotation.gif",
+          "altText": "Full 360 view of  character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/merville-travis/dn-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#fc4d92",
+          "text": "#c8eb4e"
+        }
+      },
+      {
+        "student": "Talia Porat",
+        "avatar": {
+          "name": "Hugo Emil Bucher",
+          "tagline": "Brrrr... I’m freezing",
+          "about": "Hugo Emil Bucher, a character from Winter Sports game. A 18 years old and originally from Switzerland. Also lived in the cabin house. He played many of winter sports game for a long time. The winter is his favorite season and sport is snowboarding because he loves to ride down the hills a little bit faster. Many of winter sports that he played from before were a snowboarding, skiing, outdoor ice hockey, ice skating, sledding, etc. He also wear a comfortable outfits like a sweater, beanie hat, gloves, and boot shoes. He has a blonde curly hair and blush face. Polar is his favorite animal. Hugo does care about supporting many of animals. He like to care of the dogs, cats, and winter animals.",
+          "world": "Hugo does care about supporting many animals. He likes to take care of the dogs, cats, and winter animals. Winter is his favorite season. This character is used for online video games. It does express the real-world identity that he also plays the winter sport.",
+          "connection": "I feel cozy and I want to drink a hot chocolate."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/porat-talia/hugo-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/porat-talia/hugo-rotation.gif",
+          "altText": "Full 360 view of  character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/porat-talia/hugo-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#413B80",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Sebastian Quintanilla",
+        "avatar": {
+          "name": "Jhaden",
+          "tagline": "Baddass Punk Teenage Rebbel from the Future",
+          "about": "Jhaden is a 19-year-old streetwise rebel who uses neon art and style as her weapon of defiance. Her satin bomber, worn loose off one shoulder, is streaked with glowing graffiti accents that mark her as both artist and outlaw. She travels fast on a custom cyberpunk skateboard and keeps spray cans at her belt, ready to tag the city with rebellion. A sleek glowing visor hides her expression, giving her a fearless, untouchable presence. Agile and quick, she relies on speed and street smarts over brute strength. Every mark she leaves behind is both art and a message — a warning to those in power. Confident and resourceful, she thrives in the chaos of the neon-lit streets. Jhaden is more than a survivor — she’s the spark rewriting the city’s story.",
+          "world": "Name of the Place: People call it The Spine because all the tall buildings stacked together look like a giant backbone. Time: It’s in the future, but not the shiny perfect kind — more broken down and messy, with neon lights everywhere. Place & Culture: It’s a mix of a bunch of different cultures smashed into one giant city. There are markets, street art, and music on the lower levels, but the rich and corporations live way higher up. Politics: It’s not peaceful. The corporations try to control everything, but the people in the streets push back with their own rules, gangs, and art. Visual Identity: The city looks industrial and crowded. Everything is steel, glass, and wires, but it’s covered in glowing neon signs, graffiti, and colors like blue, pink, purple, and yellow. Living Space Housing: Jhaden lives in a small apartment halfway up the city towers. It’s not fancy, but it has a big window that shows the neon city outside. Decor: The first thing you’d notice is all the glowing stuff. Her walls are covered in graffiti tags, posters, and LED lights. Spray cans and her skateboard are always lying around.",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/quintanilla-sebastian/jhaden-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/quintanilla-sebastian/jhaden-rotation.gif",
+          "altText": "Full 360 view of  character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/quintanilla-sebastian/jhaden-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#862fc4",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Alejandro Santos",
+        "avatar": {
+          "name": "Agent & Anders",
+          "tagline": "Mushroom Double Duo, Partners in Crime",
+          "about": "Agent is an R136a1 blue star, and a Bleeding-Tooth Fungus. He may be just a mushroom man, but he’s actually born a star. After living in the underwater City, himself and his twin brother Anders, has lived with the Military Navy Army. The outfit was been found in the closet when they moved in there was a badge name there, it's missing the whole name, but \"Agent\" is what he's rolling with. The cape is something that he doesn't want, but it is part of the outfit. The sucker on the head is fake, it’s to hide the identity, now in days thw people will call them “Stampy Octopus,” which is becoming a pet peeve. The next journey for him will be found someway, but he’ll find his purpose. 2. Anders is an original Bleeding-Tooth Fungus. After living in the underwater City, himself and his twin brother Agent, has lived with the Military Navy Army. The outfit was found in a closet too the badge name was \"Anderson\" but that's it said, not even a last name, so \"Anders\" is the short way, yet Agent would call him Andy too. Just like Agent, he doesn't want the cape, but it is part of the outfit. The sucker on the head is fake, it’s to hide the identity, now in days thw people will call them “Stampy Octopus,” which is becoming a pet peeve. He is aware that both Agent and Anders are not actual brothers by blood, but living with him for more then 20 years make a real belief. It was until Anders is given a star spirit, now he represents HD 140283. The journey of him being half star, it felt like destiny is growing in him.",
+          "world": "Both Agent and Anders are in the age of 25 when they visit an unknown city far from there home town. They want live a new life, mostly Agent, he doesn't want to keep living in one place. When Anders thought about traveling to a new place, this should keep Agent hype. Has it work, yup it did, but it came with a price. The underwater city is where they are, its odd that it take place on land over underwater. The story goes on when the ocean disappears and sea animals has to adapt on land, so gils have ben replaced by lungs. But it was then learned that most of the carnivores the killing machines, without much hope from other creatures, Agent and Anders became the first. They spent ten years in the military, ever since the captain of the military found them, she suspected them to be spies. It was the answer that they never sen mushroom men before. Agent and Anders went from a journey to saving the city, who would of thought. Training them are not easy, because the captain never train creatures like these, so learning and reading about mushrooms are something she has to do. After years of training, Agent and Anders are ready, let's them live in the master army room. This is a start to say, Agent and Anders make themselves at home. Cleaning and organizing are bog stuff, the closest has free clothes for them. It turns out somebody must've live there before them. The vest seems old, even the captain hats have no badges. So they try it on, the captain didn't expect to find them wearing those outfits. So for now, Agent and Anders will have to be the Underwater city's only hope from the enemies and killers. Side story will be that Agent and Anders did build a team of their own. The captain thinks maybe they can work to together on their own kind if they like, besides going with the mollusks. It took a long time to build, they went with what they got. Now the Underwater City give hope to the Fungus Comrades are the saviors.",
+          "connection": "Those two enjoy to travel, very curious, and happy to explore somewhere new."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/santos-alejandro/anders-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/santos-alejandro/anders-rotation.gif",
+          "altText": "Full 360 view of  character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/santos-alejandro/anders-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#00E7FF",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Marlene Villasenor",
+        "avatar": {
+          "name": "Matthew",
+          "tagline": "Powered by Music. Protected by Jiu-Jitsu",
+          "about": "Matthew is a happy kid with a heart as big as his smile. He’s funny, caring, smart, and always ready to help anyone who needs it. In his Jiu-Jitsu uniform, Matthew stands confident—not to fight, but to protect. His moves show discipline and respect, reminding everyone that real strength comes from kindness and using your abilities to do good. Then there’s his love for music—his greatest superpower! In battle, Matthew turns melodies into energy. He challenges enemies to rhythm duels, mixing beats, dance moves, and jiu-jitsu into one awesome style. Matthew isn’t just a hero—he’s a living beat of music, courage, and heart.",
+          "world": "Matthew lives in a world where music is everything. People speak in melodies, solve problems with harmonies, and celebrate with booming beats. In this world, music isn’t just important—it’s the heartbeat of the entire land. And the best place to find Matthew? The amazing Jiu-Jitsu Dance Studio at the center of town. It’s a vibrant, electrifying place where martial arts and music mix perfectly. Disco balls hang from the ceiling, scattering rainbow lights across a colorful, glowing dance floor. Every step, kick, and spin sparkles under the shifting colors. Along the walls are cozy seating areas with cushioned benches—perfect for catching your breath after an intense challenge or cheering on the next rhythm duel. The whole studio buzzes with energy, excitement, and nonstop beats. Whether he’s practicing Jiu-Jitsu or dancing to cool rhythms, Matthew is always in motion, always learning, and always ready for the next big challenge. In a world fueled by music, he shines as a hero powered by rhythm, courage, and heart.",
+          "connection": "Watching my son become the amazing person he is inspires me to create something that represents him"
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/viallasenor-marlene/mateo-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/viallasenor-marlene/mateo-rotation.gif",
+          "altText": "Full 360 view of  character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/viallasenor-marlene/mateo-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#CE0235",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Nat Yant",
+        "avatar": {
+          "name": "Sally Whitethorn",
+          "tagline": "The mixed up mouse from Oakshadow",
+          "about": "Sally is a mixed up mouse from the miniature wild west town of Oakshadow. She grew up in a wealthy family, but was extremely bored of that lifestyle. She became friends with a different crowd, poor mice who relied on thievery to make a living. She ran with this crowd for a while, living an adventurous life and carrying out cheese heists on a regular basis. She often drove the group past their comfort level, as she had less to lose than the others. Eventually, the law caught up to her and she was thrown in prison. Years later, she's finally released, but times have changed. The law has grown harsher with the death penalty becoming increasingly common. Her old gang has disolved and grown up. However, Sally's blissful naivety and rose-colored glasses drive her toward somehow recreating the good old days.",
+          "world": "Oakshadow is a miniature, wild west mouse town. The entire town fits nicely under the shade of a big oak tree. The town's legal system was once controlled by a kind human, but they were eventually locked away, and now it's under the protection of two snakes, who disagree on how things should be run.",
+          "connection": "I love little things, nature, and the west."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/yant-nat/sally-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/am-roster/yant-nat/sally-rotation.gif",
+          "altText": "Full 360 view of  character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/am-roster/yant-nat/sally-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#E0B12D",
+          "text": "#FFF9F3"
+        }
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "semester": "Fall-2025",
+    "name": "72001",
+    "time": "Evening Class",
+    "roster": [
+      {
+        "student": "Nash Cole",
+        "avatar": {
+          "name": "Sevaw",
+          "tagline": "The San Francisco flowershop bombshell",
+          "about": "Sevaw is an orchid from a flower shop in San Francisco. They are feminine, proper, sassy, and charming. They have thick and defined lips and rounded curious eyes. Their red colored petals signify their more charming and seductive nature. As well as strength.Their yellow vase signifies a more positive energy they bring along. Along with a more curved waist to appear more feminine. Sevaw’s arms are representing them flexing their muscles to show their strength.",
+          "world": "In the city of San Francisco, this flower shop sits on the bay. It’s a calm and serene place with not much business. An outlook of the golden gate bridge is present as well as the city. Sevaw, the orchid flower runs the entire place and takes care of the other flowers. The building is dim, luminated by soft lights",
+          "connection": "I love flowers and San Francisco so I combined the two."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/cole-nash/sevaw-animation.gif",
+          "altText": "Sevaw waving"
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/cole-nash/sevaw-rotation.gif",
+          "altText": "Full 360 view of Sevaws' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/cole-nash/sevaw-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#75596E",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Damian G. Duenas",
+        "avatar": {
+          "name": "Scruffy",
+          "tagline": "What's in it for me?",
+          "about": "Meow meow, meow meow meow. Meow meow mew meow, meow.",
+          "world": "Scruffy lives in the urban jungle that is the Brooklyn Borough, he is an aspiring artist that commutes to Manhattan for work.",
+          "connection": "My personal connection to scruffy is the disheveled lifestyle we both seem to lead, with more passion for projects and hobbies over self-love and an affliction for life."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/duenas-damian/scruffy-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/duenas-damian/scruffy-rotation.gif",
+          "altText": "Full 360 view of Scruffys' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/duenas-damian/scruffy-world.png",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#766600",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Martin Fabros",
+        "avatar": {
+          "name": "Narly",
+          "tagline": "Friendly neighborhood narwhal",
+          "about": "Maximilian Monodon, aka Narly, is a humanoid narwhal ninja embodying the spirit of an older millennial. A barista by day, ninja assassin, a reluctant anti-hero, he possesses deep commitment to social issues and a mission for justice. Residing ni North Hollywood, he balances the grounded rituals of daily life with fantastical talents: interdimensional travel, scratch-level golf, and multi-instrument artistry.",
+          "world": "In present-day Los Angeles – a sprawling, high-tech metropolis of sleek architecture, muted gray-blue tones, and sharp contrasts - modern life thrives amid political and cultural division. Beneath the city's polished surface lies a restless energy, a reflection of its diverse, urban pulse. The story centers around Narly, a 38-year old undercover ninja, living in luxury apartment perched above trendy retail shops and late-night cafes. His home, though stylish, is cluttered with personality: minimalist furniture, movie posters, and an unassuming wardrobe tucked in the corner.",
+          "connection": "Narwhals can be ninjas!"
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/fabros-martin/narly-animation.gif",
+          "altText": "Narly looks at opening doors behind him"
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/fabros-martin/narly-rotation.gif",
+          "altText": "Full 360 view of Narlys' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/fabros-martin/narly-world.jpg",
+          "altText": "Narly looking in his room"
+        },
+        "styles": {
+          "background": "#776C82",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Aly Farr",
+        "avatar": {
+          "name": "Aly",
+          "tagline": "The brightest and happiest of all",
+          "about": "Aly lives in a world, similar to our own modern one, except its a world full of whimsy and joy for her to enjoy. She lives an almost careless life, often at her home, out with her friends, or working at her job, a small flower shop. She often dresses in the same style of clothing, sticking to appeasing color palates and clothes with interesting shape language. She spends her time at home listening to her favorite music, baking, drawing, or picking up new hobbies to try. her wings have no purpose and simply float with her for cosmetic purposes, she is often wearing a happy expression, simply fulfilled with her peaceful life.",
+          "world": "The small studio apartment is set in a charming city, full of life and nature. The apartment, is cozy with calm tones throughout the room. With large windows to let plenty of light in and many places to sit or lay down/ shear curtains flutter and float around the room catching light and dividing space.",
+          "connection": "She represents me, one without worries and one who strives to always be the best version of herself."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/farr-aly/aly-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/farr-aly/aly-rotation.gif",
+          "altText": "Full 360 view of Alys' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/farr-aly/aly-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#84A98C",
+          "text": "#354F52"
+        }
+      },
+      {
+        "student": "Harry Garcia",
+        "avatar": {
+          "name": "Martin",
+          "tagline": "Music Producer who enjoys nature",
+          "about": "Martin is a mix of literal and stylized elements, portrayed as a young student who spends most of his time playing video games and listening to music in his small house. With a natural ability to make music, he hopes to create songs that make people feel genuinely happy. Music and games have always been his escape from reality, shaping both his motives and his desire to pursue a creative path. His signature look includes always wearing headphones, a subtle nod to the sounds and melodies that inspire him daily.",
+          "world": "Martin lives on a peaceful, semi-futuristic Earth where technology has grown gently alongside nature, improving human life without overpowering it. The world around him glows in soft shades of green, giving everything a surreal calmness, as if the planet itself is finally at peace. He makes his home outdoors, surrounded by tall trees and the quiet rhythm of a nearby lake that reflects the morning light. His living space is simple and personal — wooden walls decorated with posters of his own music, a few of his favorite video games, and neatly hung headphones of every kind. In this tranquil setting, Martin finds inspiration in the harmony between technology and nature, creating songs that echo the world’s renewed balance.",
+          "connection": "I like listening to music, and I i kinda wanted to create a character that creates music."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/garcia-harry/martin-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/garcia-harry/martin-rotation.gif",
+          "altText": "Full 360 view of Martins' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/garcia-harry/martin-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#766600",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Shabir Halimi",
+        "avatar": {
+          "name": "Masih",
+          "tagline": "He is a digital version of myself",
+          "about": "Born from the city and shaped by the online world, he is the stronger, cooler version of Masih. Living in a mastering every drive. With fearless energy and a sharp look, his mission is clear—chasing success and leaving a powerful mark.",
+          "world": "My theme for this composite is starting a new chapter in life. The scene shows my avatar, Masih, in a calm and bright room that feels like a fresh start. The boxes in the room represent moving into a new place and beginning something new, while the relaxed expression and simple furniture create a peaceful mood. I used layer masks to cut out and place different photo elements non-destructively, and I adjusted colors and shadows so everything blends naturally. My drawing of Masih adds a personal storytelling element, showing a moment of peace and reflection in a new environment.",
+          "connection": "I love cars"
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/halimi-shabir/masih-animation.jpg",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/halimi-shabir/masih-rotation.jpg",
+          "altText": "Full 360 view of Masihs' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/halimi-shabir/masih-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#766600",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Lauren Harden",
+        "avatar": {
+          "name": "Mina",
+          "tagline": "Would kill for a slice of bread",
+          "about": "Mina is a hardened wanderer whose unusual appearance sets her apart from the world she drifts through. Her skin carries a distinct pink hue. Her short, uneven blonde hair frames a sharp face with watchful dark eyes, always scanning her surroundings like someone trained never to let their guard down. At her hip rests a sword, the ever-present mark of her trade as a mercenary and assassin. Once tied to a secretive clan, Mina was shaped by their discipline and blood-soaked code, but betrayal and hardship pushed her into a life of constant wandering across the Mongolian-Russian borderlands of the 15th century. Now she survives by taking dangerous jobs, selling her skills to the highest bidder, and keeping her past buried. To those she encounters, she’s strange, ragged, and best avoided.",
+          "world": "It's the 15th century near the Mongolian-Russian border. It's always cold and snow can be found in every corner. Some people choose to live honestly and other join clans if they're brave enough. Only those born into clans or those who possess fire abilities are accepted. Outsiders stay away from clan members choosing to live in fear. No one likes a clan member or fire wielder here.",
+          "connection": "I've always loved YA female protagonists with angsty backstories. THUS, I decided to create one of my own! :)"
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/harden-lauren/mina-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/harden-lauren/mina-rotation.gif",
+          "altText": "Full 360 view of Minas' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/harden-lauren/mina-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#FFD6E8",
+          "text": "#0B1215"
+        }
+      },
+      {
+        "student": "Jaleesa Hawkins",
+        "avatar": {
+          "name": " ",
+          "tagline": " ",
+          "about": "",
+          "world": "",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/hawkins-jaleesa/maisha-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/hawkins-jaleesa/maisha-rotation.gif",
+          "altText": "Full 360 view of Maishas'' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/hawkins-jaleesa/maisha-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": " ",
+          "text": " "
+        }
+      },
+      {
+        "student": "Brennan Klawitter",
+        "avatar": {
+          "name": "Mr.Chip",
+          "tagline": "The silliest triangle god",
+          "about": "Mr.Chip is the most mischievious triangle god ever. He takes immense pleasure in causing chaos wherever he goes. And best of all he lives in space.",
+          "world": "A digital realm in the middle of space where Mr.Chip lives on his own planet Triyona.",
+          "connection": "I love the idea of absurd characters"
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/klawitter-brennan/mrchip-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/klawitter-brennan/mrchip-rotation.gif",
+          "altText": "Full 360 view of Mr.Chips' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/klawitter-brennan/mrchip-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#FFA500",
+          "text": "#2832C2"
+        }
+      },
+      {
+        "student": "Zoe Krill",
+        "avatar": {
+          "name": "Quailbur",
+          "tagline": "He's here to help!",
+          "about": "Hundreds of years ago Quailbur was born on the Catalina Islands and journeyed across the sea by boat to the mainland. They decided to nest beneath a pepper tree on a mountainside and explored the surrounding trails. On one of the trails they discovered a book with all the knowledge in the universe. This book took years and years to read and was constantly updating but Quailbur read it all and kept up to date with each day’s new information. Eventually, the internet was invented and Quailbur was called on to watch over it and learn about it as well. They entered the internet through a back door in the first computer and have been answering people’s questions ever since. When people online need help using their devices Quailbur is there to help.",
+          "world": "Quailbur lives in a beautiful forest in Southern California in a house he made of bricks, bark, and sticks. It is decorated with various trinkets he has collected during his travels and a cozy nest.",
+          "connection": "Quailbur is always there for me when I'm in a digital jam."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/krill-zoe/quailbur-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/krill-zoe/quailbur-rotation.gif",
+          "altText": "Full 360 view of Quailburs' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/krill-zoe/quailbur-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#4E4219",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Megan Moreno",
+        "avatar": {
+          "name": "Petal",
+          "tagline": "Soft wings. Sharp blade.",
+          "about": "Petal is a Gothic, immortal fairy from Emberglade who lives with her dragon, Puff. At 428 years old, she continues her parents’ fight against dragon hunters, wielding her sword with precision and crafting potions that heal, enhance weapons, or cloak her movements. Graceful in both flight and stride, she protects her home while ensuring Puff can roam free. Her mission is to drive out hunters and form alliances to save all dragons. Defined by the haunting sound of her glistening guitar, Petal embodies loyalty, vengeance, and a fierce devotion to her realm.",
+          "world": "Emberglade is a digital-fantasy realm where Gothic medieval aesthetics blend with glowing, code-like magic. Ember-lit forests, drifting particles, and aurora skies create a mystical, slightly haunted atmosphere. Dragons are sacred guardians of the land, shaping a culture devoted to protecting them from outside hunters. Petal lives in a cozy, weapon-lined cabin surrounded by potions, enchanted artifacts, and ambient digital energy, giving her home a balance of ancient and technologically enchanted elements.",
+          "connection": "Petal is everything I would be in a world full of magic."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/moreno-megan/petal-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/moreno-megan/petal-rotation.gif",
+          "altText": "Full 360 view of  character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/moreno-megan/petal-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#83C881",
+          "text": "#863391"
+        }
+      },
+      {
+        "student": "Ronny Palma",
+        "avatar": {
+          "name": "Atlas",
+          "tagline": "Mage-Wolfkin Guardian",
+          "about": "Atlas is an ageless, abstract persona—an elf of unknown exact years who appears to be in his prime. Named after the Titan of Greek myth, he stands as a figure of quiet strength and ancient wisdom. A self-made guardian, Atlas dwells in a secluded forest cottage surrounded by the wolf-beastkin people he protects. Though he was not born or forged to serve them, decades of cohabitation have made him their steadfast caretaker. When not tending to the wolfkin, he journeys beyond the treeline in search of forgotten places and rare magics, driven by an endless curiosity. Atlas is a master of nearly every magical art, the result of a lifetime of study beginning in childhood. Raised among elves, he was steeped in arcane lore but scarred—physically and emotionally—by elven prejudice and the cruelty of other races. His home village was raided by orcs; captured and tortured publicly, Atlas endured beatings and whippings that left indelible scars. Saved from his captors, his fury once drove him to pursue combat magic relentlessly, though over centuries his passion expanded to encompass all forms of magic once again. Humanoid and long-limbed, Atlas moves with the grace of an elf but carries the weight of his past in the marks across his body. His scent evokes the deep woods after rain—earth, moss, and damp soil—an unshakable reminder of the wilderness he calls home.",
+          "world": "Euralia is a vast, ancient forest shrouded in mist and mystery. Towering trees stretch toward the sky, their canopies casting an emerald twilight over the moss-covered ground. Small streams weave through the undergrowth, their quiet murmurs echoing between the roots of colossal oaks and evergreens. Within this wilderness dwell the wolfkin, a proud and tribal people who live in modest villages of wood and hide, guided by instinct and tradition rather than law. Beyond the forest’s edge lie the kingdoms of men, elves, and other races, whose stone walls and iron weapons mark an age of knights and crowns. While the wolfkin prefer isolation, conflicts arise when borders blur—when hunters, slavers, or soldiers stray too far beneath the green boughs. To outsiders, Euralia is a place of untamed beauty and danger; to its denizens, it is home, sacred and alive, whispering secrets older than any throne.",
+          "connection": "He's goated."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/palma-ronny/atlas-animation.gif",
+          "altText": "Altas doing magic"
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/palma-ronny/atlas-rotation.gif",
+          "altText": "Full 360 view of Atlass' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/palma-ronny/atlas-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#154D07",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Liam Richardson",
+        "avatar": {
+          "name": "Ipsofacta the Cat",
+          "tagline": "A cat living in a dogs world.",
+          "about": "Ipsofacta the Cat is a street cat hailing from the borough of Cathatten in New Yorkie City. When they’re not putting up street art, riding the subway, or prowling the streets to help out their fellow animals in need, they’re doing anything they can to get a one up on the corporate dogs that seek to take over the city. Ipsofacta always smells of spray paint, and burnt catnip. Don’t let their sarcastic, carefree attitude fool you, Ipso cares deeply for his community and his close group of friends. Ipso was raised a stray, bouncing from borough to borough meeting new people along the way. Their whole life has been plagued by the same corporate dogs that took him away from his parents.",
+          "world": "In the heart of a twisted modern world lies New Yorkie City. a gritty, hyper-real parody of New York where neon lights flicker over rusted steel and graffiti speaks louder than politics. The city is in a constant state of tension: street artists and hustlers fight to keep their culture alive while towering corporations, the so-called “top dogs”, tighten their grip on every block. Beneath the billboards and smog, creativity clashes with control, turning every alleyway into a canvas of rebellion.",
+          "connection": "Ipsofacta is meant to be representative of the kind of creative I want to be myself, one lacking inhibition and looking out for those around them."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/richardson-liam/ipsofacta-animation.gif",
+          "altText": "Ipsofacta smoking"
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/richardson-liam/ipsofacta-rotation.gif",
+          "altText": "Full 360 view of Ipsofactas' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/richardson-liam/ipsofacta-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#7B00A6",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Forrest Rios",
+        "avatar": {
+          "name": "Reminicience",
+          "tagline": "Embodiment of Memories",
+          "about": "Remi is a manefestation of both feelings and memories taken shape. Its shell is black with a purple outline to appear cool and keeping to itself. The part that's broken free with magenta, yellow and sharp edges to express its more enthusiastic side and true self.",
+          "world": "Its environment consisting of said feelings and memories, representing hidden and expressive emotions with broken shard pieces that have fallen off floating in a void like space.",
+          "connection": "I have a facination towards creature designs based on concepts. This one in particular I created based on my own feelings and memories."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/rios-forrest/remi-animation.gif",
+          "altText": "Reminicience floating"
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/rios-forrest/remi-rotation.gif",
+          "altText": "Full 360 view of Reminiciences' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/rios-forrest/remi-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#0F0628",
+          "text": "#FBDA6B"
+        }
+      },
+      {
+        "student": "William Robertson",
+        "avatar": {
+          "name": "Zingularity",
+          "tagline": "Where my huggg at?",
+          "about": "Zingularity is a funny and quippy superhero that can create and manipulate black holes, open worm holes and use them to warp space and time. He would be one of the most powerful superheroes if he didn't become exhausted and pass out after only using his powers once or twice. Even though he can warp himself to any location, he is often seen showing up to a scene by taxi because he doesn't have enough energy to fight after warping, he is often used as transportation by other heroes and stays behind to rest. His mother and father are both physicists but he wants to be an artist and doesn't even know how his powers work. Has an associate degree in art from an online community college doesn’t know the science behind his powers. Lives in a loft in the superhero hideout so he doesn’t have to pay rent. Pays for food by selling his abstract paintings online. The Only stays in as a superhero because he’s in love with one of the girls who works there. Boring and insecure without his mask and suit. Human form, American style animation, tall lean, light brown hair, eyes that look like a starry night. Blue costume, black gloss helmet.",
+          "world": "Zingularity lives In what apears to be a vibrant green utopia with advanced tech and abundant recorses but there is a secret side to this world. beeath the surface there is a subterainian city filled with people struggling to get by and ravaged with crime.",
+          "connection": "I Like silly superheros with masks and cool powers!"
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/robertson-william/zing-animation.gif",
+          "altText": "Zingularity floating in front of a black hole"
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/robertson-william/zing-rotation.gif",
+          "altText": "Full 360 view of Zingularitys' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/robertson-william/zing-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#29465B",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Zach Thompson",
+        "avatar": {
+          "name": "Tock",
+          "tagline": "Gear-Head, Garage-Living Innovator",
+          "about": "Growing up through a mediocre neighborhood in a clockwork/steampunk city. Tock, an aspiring innovator and inventionist went through his school years fascinated by the technology that was shown to him. Through his time, he set out to learn and better understand the machinery around him and how they functioned. To achieve this, Tock started off by disassemblng some of the extra parts of machinery he found laying around to gain a better understanding of their mechanisms, functions and layouts. Tock later in his high school years began taking innovation classes where he learned a good set of skills on how clockwork mechanisms functioned. Once done he set out to learn how to develop, design and build machines of his own one day, and hopefully make a name for himself in the industry.",
+          "world": "Tock lives in a Clockwork world representative of how life would turn out if humanity more-so innovated towards clockwork mechanisms rather than purely towards electrical improvements while leaving gears in the dirt. Tock lives in a mechanized City by the name of Turnora, a large city that revolves around innovation and production of machines. Naturally, the environment itself is a large inspiration for why Tock geared himself so heavily towards learning innovation and invention himself. The city has many quadrants to it, each with their own function. Tock, lived in a residential sector for most of his life with his parents, before eventually in his want to practice innovation, bought a garage for himself in the industrial sector where he resides in his new makeshift workshop and home.",
+          "connection": "I enjoy the creation of art and digital media, using this median to represent my passions."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/thompson-zach/tock-animation.gif",
+          "altText": "Tock with gears rotating behind him"
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/thompson-zach/tock-rotation.gif",
+          "altText": "Full 360 view of Tocks' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/thompson-zach/tock-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#A87A58",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Isaac Vasquez",
+        "avatar": {
+          "name": "Sean Tether",
+          "tagline": "Keep a level head",
+          "about": "Sean is a 25 year old mail that was born in a hospital in the middle of no where. Not to many years after that he was thrown to the streets b his parents. Around the age of ten he was picked up by the leader of the Sinkix corporation and, raised into the he is today working for them. His personalised armor is designed to look like a two piece suit he decided this to have some normalize in his life.",
+          "world": "Sean lives in a town infested by monsters. He works for the that deles with them.",
+          "connection": "A character I have had in mind for a while."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/vasquez-isaac/sean-animation.gif",
+          "altText": "Sean walking away from exploding buildings"
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/vasquez-isaac/sean-rotation.gif",
+          "altText": "Full 360 view of Seans' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/vasquez-isaac/sean-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#766600",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Kenny Vega",
+        "avatar": {
+          "name": "Beastie Vega",
+          "tagline": "Advocate Guardian Wolf",
+          "about": "Beastie is a digital alter-ego that began as an Xbox username and grew into a full cyber-fantasy identity, symbolizing a “better me.” Appearing in his early twenties, he is part human and part techno-wolf, marked by cyan robotic eyes, a scar near his left eye, hidden wolf features, and a mechanical arm with a companion orb. In the digital world, he serves as a gamer, friendly hacker, guardian, and protector—sometimes even taking the blame so others don’t have to. Gifted with powers like short-range warping, holograms, summoning items, creating checkpoints, and limited shapeshifting, He blends strength with compassion. Driven by loyalty to friends and loved ones, he seeks to protect, comfort, and fight for those he values, embodying both a fierce defender and a loyal companion with blue aura.",
+          "world": "This scene depicts a personal digital realm set in what appears to be a distant future, where the boundaries between physical space and virtual dimensions are blurred. Beastie's environment takes the form of a sleek, futuristic cabin illuminated by neon-blue lighting and holographic panels, with a wide viewport revealing a swirling cosmic vista that appears as a simulated vision of outer space yet feels strikingly real. The “sunroof” or top window shows the blue digital coding simulating the environment. The space serves as both a sanctuary and a construct, existing within a pocket dimension accessible only to its student or chosen guests. Inside, the cool lighting, large bed, and personal details such as digital decor, a cat named Mixy resting on the bed, and glowing patterns across the room bring warmth and identity to the metallic frame. It is a calm, immersive retreat where technology and comfort intertwine, reflecting Beastie’s personality and inner world. But even with all this personal sanctuary, he can't help but feel like he's always looking out into the digital space, feeling alone with no one to share or invite into his own personal created world. The cat resting on the bed is my pet, whom I sometimes refer to as my sister. Mixy, when I took the picture was when she was sleeping in her blanket on the couch. On the nightstand is a Jack-o-Melon that my dad helped me make last year during Halloween, and since it is that year again, I decided to add it to the room. It's inspired by a TV series, Gravity Falls. Added my own drawing art using the paintbrush. I drew a Deadpool icon in both his main red and black suit colors and the blue and yellow version he wears when he is with the X-Men.",
+          "connection": "I may seem quiet and isolated at first but once you get to know me, you'll gain good loyal companion and a friend that will protect and be there for you whenever possible."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/vega-kenny/beastie-animation.gif",
+          "altText": "Beastie at an arcade"
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/vega-kenny/beastie-rotation.gif",
+          "altText": "Full 360 view of Beasties' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/vega-kenny/beastie-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#55585e",
+          "text": "#2FB8EC"
+        }
+      },
+      {
+        "student": "Tyler Weinstein",
+        "avatar": {
+          "name": "Drakov \"The Monster\"",
+          "tagline": "A curious oni typing to live with humans",
+          "about": "Drakov is an oni who has lived over 1000 years. His purple skin was considered a rarity among oni. Drakov was different from the others in another way, being interested in humans. Unfortunately, talking to them was just not possible. Oni were known for killing humans for sport, so it made sense that humans didn’t trust him or any others. Drakov first tried to talk to humans, entering a village, but it only led to feared lives and arrows. However, that didn’t stop him from taking items from humans, grabbing anything and everything that looked interesting, including his pants and jacket. Hopefully one day humans will be more accepting and he can live peacefully with them.",
+          "world": "Drakov’s house is nothing short of a crude place held together by planks and prayers. Built over 100 years ago, this cabin was meant for an older couple living on the edge of a rural settlement. However, it was promptly abandoned after a supposed “sighting” of the monster was seen in the forest nearby. About 10 years ago, the house was found by Drakov, who wanted to be accepted by humans, and thought that this house would be perfect for living and moved in. Hoping to find many cool trinkets and gizmos humans have, he was soon disappointed to find the house completely barren. This led to Drakov starting to “borrow” some items from the bigger town. Over the course of 10 years, he stole many objects to make the cabin more of a home, taking anything from a stuffed animal all the way to a bed. Unfortunately, this led to the cabin being included in the urban legend of “the monster” leading to teens trying to find his home. Hopefully nothing bad happens from this.",
+          "connection": "Drakov represents me trying to fit in with others, in my own way."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/weinstein-tyler/drakov-animation.gif",
+          "altText": "Drakov holding a fork outside"
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/pm-roster/weinstein-tyler/drakov-rotation.gif",
+          "altText": "Full 360 view of Drakovs' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/pm-roster/weinstein-tyler/drakov-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#704a82",
+          "text": "#FFF9F3"
+        }
+      },
+      {
+        "student": "Diego Gonzalez",
+        "avatar": {
+          "name": "Amoebruh",
+          "tagline": "The Greatest Guardian\n",
+          "about": "Amoebruh is a vibrant, hyper-malleable, creature whose entire body ripples with neon energy and swirling psychelic colors. He has the ability to morph into any size he wants from the size of a nickel to as big as a skyscraper.\n\n",
+          "world": "Cell City is a permanently electric blue twilight sky filled with giant glowing microbes that float above the towering spires of the city, sleek buildings that serve as receivers of the moons energy. A living cellular moon sits in the center of the world. The outer walls stretch, shift and divide. These serve as borders they're alive and prevent the worlds bio-energies from spilling out into the void.\n\n",
+          "connection": "I created this character because like him I evolve & adapt to my environment, in a world that is constantly changing."
+        },
+        "avatarGif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/gonzales-diego/amoebruh-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/pm-roster/gonzales-diego/amoebruh-rotation.gif",
+          "altText": "Full 360 view of Amoebruhs' character design"
+        },
+        "avatarEnvImg": {
+          "file": "/src/assets/semester/fall-2025/pm-roster/pm-roster/gonzales-diego/amoebruh-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#F3F56E",
+          "text": "#0B1215"
+        }
+      }
+    ]
+  }
+]
