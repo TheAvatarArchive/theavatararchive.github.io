@@ -1544,16 +1544,16 @@
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/Images/semester/spring-2026/knox-mandevu/rapunzel-rotation.gif",
+          "file": "/Images/semester/spring-2026/knox-mandevu/ ",
           "altText": " "
         },
         "avatarEnvImg": {
-          "file": "/Images/semester/spring-2026/knox-mandevu/rapunzel-world.jpg",
+          "file": "/Images/semester/spring-2026/knox-mandevu/ ",
           "altText": ""
         },
         "styles": {
-          "background": "#FF0098",
-          "text": "#FFF9F3"
+          "background": "",
+          "text": ""
         }
       }
     ]
