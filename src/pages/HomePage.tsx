@@ -1,8 +1,11 @@
 import {Link, } from "react-router";
 import Title from "../components/Title.tsx";
+import {useState} from "react";
+import data from "../data/classes.json";
 
 
-function HomePage(props) {
+function HomePage()
+{
 
     return (
         <>
@@ -16,6 +19,7 @@ function HomePage(props) {
                 </div>
                 <div className="col-span-2 md:text-2xl">
                     <div className="mb-3 uppercase font-bold text-left pt-4">Explore</div>
+
                     <ul>
                         <li className="mb-3 font-medium">
                             <Link to={"/class/70914"}>
