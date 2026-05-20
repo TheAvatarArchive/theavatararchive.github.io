@@ -1555,6 +1555,32 @@
           "background": "",
           "text": ""
         }
+      },
+      {
+        "student": "Nivinma Jayawickrama",
+        "avatar": {
+          "name": "Ziley Artyom",
+          "tagline": "Evil must be punished",
+          "about": " ",
+          "world": " ",
+          "connection": " "
+        },
+        "avatarGif": {
+          "file": "/Images/semester/spring-2026/jayawickrama-nivinma/ziley-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/Images/semester/spring-2026/jayawickrama-nivinma/ ",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/Images/semester/spring-2026/jayawickrama-nivinma/ ",
+          "altText": ""
+        },
+        "styles": {
+          "background": "",
+          "text": ""
+        }
       }
     ]
   }
