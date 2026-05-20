@@ -11,12 +11,6 @@ const router = createBrowserRouter([
     {
         path: "/",
         Component: App,
-        children: [
-            {
-                path: "/class/:c",
-                Component: ClassPage,
-            },
-        ]
     },
     {
         path: "/class/:c",
@@ -25,6 +19,12 @@ const router = createBrowserRouter([
     {
         path: "/class/:c/profile/:a",
         Component: ProfilePage,
+        // children: [
+        //     {
+        //         path: "/class/:c",
+        //         Component: ClassPage,
+        //     },
+        // ]
     },
 ]);
 
