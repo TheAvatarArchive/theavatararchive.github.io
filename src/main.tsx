@@ -19,12 +19,6 @@ const router = createBrowserRouter([
     {
         path: "/class/:c/profile/:a",
         Component: ProfilePage,
-        // children: [
-        //     {
-        //         path: "/class/:c",
-        //         Component: ClassPage,
-        //     },
-        // ]
     },
 ]);
 

@@ -2,7 +2,7 @@ import {Link, } from "react-router";
 import Title from "../components/Title.tsx";
 
 
-function HomePage(props) {
+function HomePage() {
 
     return (
         <>
@@ -18,18 +18,18 @@ function HomePage(props) {
                     <div className="mb-3 uppercase font-bold text-left pt-4">Explore</div>
                     <div className="grow-span-full grid grid-rows-subgrid gap-4 font-medium">
                         <div>
-                            <Link to={"/class/70914"} className=" hover-1">
-                                Fall 2025 : 70914
+                            <Link to={"/class/70914"} className="hover-1">
+                                Fall_2025 : 70914
                             </Link>
                         </div>
                         <div>
-                            <Link to={"/class/31128"}>
-                                Fall 2025 : 72001
+                            <Link to={"/class/31128"} className="hover-1">
+                                Fall_2025 : 72001
                             </Link>
                         </div>
                         <div>
-                            <Link to={"/class/31128"}>
-                                Spring 2026 : 31128
+                            <Link to={"/class/31128"} className="hover-1">
+                                Spring_2026 : 31128
                             </Link>
                         </div>
                     </div>

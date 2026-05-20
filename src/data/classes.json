@@ -1,7 +1,7 @@
 [
   {
     "id": "0",
-    "semester": "Fall-2025",
+    "semester": "Fall_2025",
     "name": "70914",
     "time": "Morning Class",
     "group": "Images/fall25-morning-class.png",
@@ -582,7 +582,7 @@
   },
   {
     "id": "1",
-    "semester": "Fall-2025",
+    "semester": "Fall_2025",
     "name": "72001",
     "time": "Evening Class",
     "roster": [
@@ -1110,7 +1110,7 @@
   },
   {
     "id": "2",
-    "semester": "Spring-2026",
+    "semester": "Spring_2026",
     "name": "31128",
     "time": "Evening Class",
     "roster": [

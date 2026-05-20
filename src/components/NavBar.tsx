@@ -8,7 +8,7 @@ function NavBar() {
     return (
         <div className="w-full border-b-2 border-primary-200">
             <Title />
-            <SubNav  />
+            <SubNav courseSemester={undefined} courseName={undefined}  />
         </div>
     )
 }

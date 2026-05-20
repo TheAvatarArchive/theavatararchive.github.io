@@ -1,15 +1,16 @@
 import {Link} from "react-router";
 
-function SubNav({ courseSemester, courseName }) {
+function SubNav({ rightData1, rightData2, previousPage }) {
+
 
     return (
         <div className="pb-4 text-2xl font-semibold uppercase w-full border-b-2 border-primary-200">
             <div className="grid grid-cols-2 w-4/5 m-auto">
                 <div>
-                    <Link to={"/"}>Home</Link>
+                    <Link to={"/class/:c"} className="hover-1">&lt;--- {previousPage} </Link>
                 </div>
                 <div className="text-right">
-                    <Link to={"/class/:c"}>{courseSemester} : {courseName}</Link>
+                    <Link to={"/class/:c"} className="hover-1">{rightData1} : {rightData2}</Link>
                 </div>
             </div>
         </div>

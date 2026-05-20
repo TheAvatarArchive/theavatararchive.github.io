@@ -1,4 +1,3 @@
-import NavBar from "../components/NavBar.tsx";
 import {useParams} from "react-router";
 import {useEffect, useState} from "react";
 import data from "../data/classes.json";
@@ -15,20 +14,20 @@ function ProfilePage(props) {
         return course.name == c
     }
 
-    const [courseData, setCourseData] = useState(data ? data.find(isClass) :  {})
+    const [courseData] = useState(data ? data.find(isClass) :  {})
 
     function isAvatar(student){
         return student.avatar.name == a
     }
 
-    const [studentData, setStudentData] = useState(courseData ? courseData.roster.find(isAvatar) :  {})
+    const [studentData] = useState(courseData ? courseData.roster.find(isAvatar) :  {})
 
-    useEffect(() => {console.log(studentData)},[studentData])
+    // useEffect(() => {console.log(studentData)},[studentData])
 
     return (
         <>
             <Title />
-            <SubNav courseSemester={courseData.semester} courseName={courseData.name} />
+            <SubNav previousPage={"Archive"} rightData1={"Creator"} rightData2={studentData.student} />
             <AvatarBlurbSection
                 img={studentData.avatar360Gif.file}
                 name={studentData.avatar.name}
