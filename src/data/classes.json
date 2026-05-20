@@ -1529,6 +1529,32 @@
           "background": "#FF0098",
           "text": "#FFF9F3"
         }
+      },
+      {
+        "student": "Mandevu Knox",
+        "avatar": {
+          "name": "Detective Cipher",
+          "tagline": "Evil must be punished",
+          "about": "Detective Cipher was born in New York city and hates evil people and thinks that they must be eradicated he is very dedicated anfd loves Investigating crimes, bringing criminals to justice, and protecting civilians He has great knowledge about weapons and he's a great tracker and he has great hand to hand combat skills and he loves Arresting criminals, solving mystery's, protecting people.",
+          "world": "He lives in a futuristic version of New York but it has a lot more crime and its corrupt and the poverty rates are through the roof and the world is on the verege of nuclear warfare.",
+          "connection": "My connection with Detetctibve cipher comes from watching movies and comics that had detetective main charecters that i based him off of and those movies and comics were called billy bat, Pluto, Monster, Watchmen"
+        },
+        "avatarGif": {
+          "file": "/Images/semester/spring-2026/knox-mandevu/detectivecipher-animation.gif",
+          "altText": " "
+        },
+        "avatar360Gif": {
+          "file": "/Images/semester/spring-2026/knox-mandevu/rapunzel-rotation.gif",
+          "altText": " "
+        },
+        "avatarEnvImg": {
+          "file": "/Images/semester/spring-2026/knox-mandevu/rapunzel-world.jpg",
+          "altText": ""
+        },
+        "styles": {
+          "background": "#FF0098",
+          "text": "#FFF9F3"
+        }
       }
     ]
   }
