@@ -1,6 +1,5 @@
-import {Link, useParams} from "react-router";
+import {Link, } from "react-router";
 import Title from "../components/Title.tsx";
-import Footer from "../components/Footer.tsx";
 
 
 function HomePage(props) {
@@ -28,12 +27,14 @@ function HomePage(props) {
                                 Fall 2025 : 72001
                             </Link>
                         </li>
+                        <li className="mb-3 font-medium">
+                            <Link to={"/class/31128"}>
+                                Spring 2026 : 31128
+                            </Link>
+                        </li>
                     </ul>
                 </div>
             </div>
-            {/*<div className="fixed bottom-0 w-screen">*/}
-            {/*    <Footer />*/}
-            {/*</div>*/}
         </>
     )
 }

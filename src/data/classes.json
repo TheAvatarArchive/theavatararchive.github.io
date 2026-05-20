@@ -1111,11 +1111,11 @@
   {
     "id": "2",
     "semester": "Spring-2026",
-    "name": "SPRING",
+    "name": "31128",
     "time": "Evening Class",
     "roster": [
       {
-        "student": " ",
+        "student": "Leslie Aguilar",
         "avatar": {
           "name": "Orpheus \"Orphie\" Valencia",
           "tagline": "I will fight for you no matter the cause of danger, I'm not alone in this world.",
@@ -1124,488 +1124,410 @@
           "connection": "I was inspired by fictional anthropomorphic characters from video games, and anime to Shonen Jump manga series that involve mythical creatures and animal hybrids with different special ability types."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/aguilar-leslie/orpheus-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/aguilar-leslie/orpheus-rotation.gif",
           "altText": " "
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/aguilar-leslie/orpheus-world.jpg",
           "altText": ""
         },
         "styles": {
-          "background": "# ",
-          "text": "# "
+          "background": "#86052E",
+          "text": "#FFFFFF"
         }
       },
       {
-        "student": " ",
+        "student": "Jason Arce",
         "avatar": {
-          "name": " ",
-          "tagline": " ",
-          "about": " ",
-          "world": " ",
-          "connection": " "
+          "name": "Luci De Vill",
+          "tagline": "A hellishly fun time!",
+          "about": "The devil wasn’t the busiest guy. People get into hell pretty easily! Alongside being alive for so many years and trying basically everything, he’s pretty bored. One day, an idea dawned on him. There’s one last despicable thing to do: Become a talk show host! After throwing together a flashy suit and using dark magic to spawn a recording studio somewhere in LA, he was ready. Since around the 1950s, his talk show “Laughin With Luci” became an instant hit. By doing visual gags with his magic and his general standoffish demeanor, he makes his guests just uncomfortable enough for it to still be funny. What a comedic guy he is! The guests who dissagree disappear after, anyway. No one worries too much about that.",
+          "world": "Hell peers through the window of a penthouses bedroom. The lava and fire creates a flushed red tone that fills the area, making Luci De Vill feel right at home. This high-rise building house sits atop of a dismal wasteland, blazing with heat up against its strong bricks. Even at the very top of the house, a volcano is still visible right through the window. Time isn't a present idea here, alongside the cardinal directions, creating a feeling of chaos throughout. This makes going in and out of this realm a disorientating experience but Luci doesnt mind, he loves it! This interest is seen throughout his room, each of his decorations and all of his furniture has been carefully \"borrowed\" from the human realm. It has small pops of color, and an assortment of mismatching items, echoing the chaos of his homeland. His 1969 Cadillac Deville is one of his prized possessions, so much so that he uses it as an uncomfortable bed.",
+          "connection": "I've always loved devilish characters. He's what I would do If I were the devil and I got bored."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/arce-jason/luci-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/arce-jason/luci-rotation.gif",
           "altText": " "
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/arce-jason/luci-world.jpg",
           "altText": ""
         },
         "styles": {
-          "background": "# ",
-          "text": "# "
+          "background": "#A30B00",
+          "text": "#FFFFFF"
         }
       },
       {
-        "student": " ",
+        "student": "Dylan Dadon",
         "avatar": {
-          "name": " ",
-          "tagline": " ",
-          "about": " ",
-          "world": " ",
-          "connection": " "
+          "name": "Jake From A State Farm",
+          "tagline": "Never underestimate the power of a positive attitude",
+          "about": "Meet Jake From A State Farm. This man lives and breathes baseball because he IS a baseball. He works hard to party hard and the man does not disappoint.",
+          "world": "Jake's never giving up on winning a championship. He sits in his office day in and day out while the players get ready on the field. He secretly wants to be on the field, but knows that would bring the championship he wants.",
+          "connection": "Much like Jake, I work hard so that life after work can be fun. Jake is silly much like myself and we both like making people laugh."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/dadon-dylan/jake-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/dadon-dylan/jake-rotation.gif",
           "altText": " "
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/dadon-dylan/jake-world.jpg",
           "altText": ""
         },
         "styles": {
-          "background": "# ",
-          "text": "# "
+          "background": "#A5ACAF",
+          "text": "#005A9C"
         }
       },
       {
-        "student": " ",
+        "student": "Emiliano Delgado",
         "avatar": {
-          "name": " ",
-          "tagline": " ",
-          "about": " ",
-          "world": " ",
-          "connection": " "
+          "name": "Viktor",
+          "tagline": "The Reignited Skeleton",
+          "about": "After his tragic head injury that ended his life, Viktor's regrets and unfulfilled wishes allowed him to reawaken and live again. With this second chance at life, Viktor has made it his goal to live it to the fullest and be as free as he can be. He enjoys the simplicity to his new life, taking each day one at a time feeling the sun and wind blow through his empty body. Each new day in his skeletal life makes him feel more alive than when he was human.",
+          "world": "Viktor's world feels as though it is brighter seeing it through his reawakened empty eyes. He lives in the city of LA where he can be as free and himself as he can be. The big city blooming with life and experiences is all what Viktor needs to keep him going.",
+          "connection": "Who wouldn't want to live as free as a resurrected skeleton."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/spring-2026/ ",
-          "altText": " "
+          "file": "/Images/semester/spring-2026/delgado-emiliano/viktor-animation.gif",
+          "altText": "Viktor at Griffith Observatory"
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/spring-2026/ ",
-          "altText": " "
+          "file": "/Images/semester/spring-2026/delgado-emiliano/viktor-rotation.gif",
+          "altText": "character rotation"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/spring-2026/ ",
-          "altText": ""
+          "file": "/Images/semester/spring-2026/delgado-emiliano/viktor-world.jpg",
+          "altText": "Viktor in his environment"
         },
         "styles": {
-          "background": "# ",
-          "text": "# "
+          "background": "#5670B6",
+          "text": "#FFFFFF"
         }
       },
       {
-        "student": " ",
+        "student": "Ryan Fulton",
         "avatar": {
-          "name": " ",
-          "tagline": " ",
-          "about": " ",
-          "world": " ",
-          "connection": " "
+          "name": "Stickler",
+          "tagline": "Old enough to know he's past his prime. Young enough to know he doesn't want to be forgotten",
+          "about": "Stickler is a 30 year old syringe, used by his sleazy doctors way past when he should’ve been thrown away. He prides himself on his work, and never knows when his time is going to be up, so he always pushes his hardest whenever he’s needed. With his damaged exterior, he pushes through the pain and gives his all. He lives in a slightly run down hospital, and goes home to an area where he can rest in his favored position, upside down. He doesn’t have many hobbies, and mainly retires to his container to rest up while watching his favorite medical dramas. He isn’t very sociable, but gets along fine with his work buddies. He wants to leave the city a little less sick every day, and cherishes waking up to work everyday.",
+          "world": "In a rundown city, Stickler lives in an apartment, not too far away from where the grimy hospital he works in. The apartment is a beacon of decency in comparison to it's surroundings, and just out of sight, there are dilapidated buildings and trash on the streets. There is nothing that constitutes the description of wealth in the area, except for the mediocre, yet slightly clean apartments. It is the modern day, yet barely any high tech is to be seen. Not quite slum, but not quite the beacon of industry it may have been in the past. Stickler lives in this modicum of decency, away from the grubby hands of the doctors who have let him live all these years for an extra dollar. His room is occupied by only some bare necessities, at least for him. An old TV, a rug, a folding chair, should any visitors arrive, a packing box that he hasn't gotten to yet, and a bug catcher. Just out of the frame he also has a bed, a small kitchenette, and no bathroom. He prides himself on living with nothing but what he needs. It's not much, but it's his home, and he will stay here as long he possibly can.",
+          "connection": "Stickler has this air about him that he's been through a lot, but still wants to see what's at the end. I feel similar."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/fulton-ryan/stickler-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/fulton-ryan/stickler-rotation.gif",
           "altText": " "
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/fulton-ryan/stickler-world.jpg",
           "altText": ""
         },
         "styles": {
-          "background": "# ",
-          "text": "# "
+          "background": "#003366",
+          "text": "#FFFFFF"
         }
       },
       {
-        "student": " ",
+        "student": "Alejandro Galdamez",
         "avatar": {
-          "name": " ",
-          "tagline": " ",
-          "about": " ",
-          "world": " ",
-          "connection": " "
+          "name": "Artronus",
+          "tagline": "The Strongest Herald of the Chaos Bringer",
+          "about": "Artronus is a 5 million year old Cybtertronian Vehicon that’s been around fighting for the decepticons since Megatron’s uprising on the planet of Cybertron. For most of the war he served as Megatron’s main vehicon scout who rivaled even Soundwave’s battle intelligence gathering, but later on after the war and currently on Earth, he became something Megatron could only dream of ever becoming. He ended becoming arguably the most powerful Herald of Unicron himself after finding a artifact that more or less was the Matrix, but one that was a direct rival opposite to the Matrix of Leadership Optimus carries called the Matrix of Chaos, granting him power that now allows him to take Optimus and even multiple Autobots all at once, and his dark energon boost grants him even more durability and strength to overpower or rival stronger bots than him thanks to it being a direct link to Unicron’s essence for him to draw power from. Now he spends most of his time as Unicron’s primary and most powerful herald that travels safely in his massive planet form in space, waiting for when his Master ever needs him for battle.",
+          "world": "Artronus resides within the confines of a specialized machine like throne room deep in the core of Unicron himself in his planet form where he is devouring planets and galaxies in deep space, and essentially sits on the throne in stasis with 6 pedestals that each hold one block of Energon of different colors that he has collected across the universe as both trophies but also for use in his own experiments and research on how they can aid him in battle or just in general in case he wishes to one day free himself from Unicron's grasp, with the window behind him overlooking where his master is heading next which currently is to the milky way galaxy where Optimus and the remaining Autobots are located and protect Earth. It's essentially a high tech based but dark and ominous environment that overlooks the mostly empty but still beautiful light filled aspects of space that Artronus can sometimes view whenever he is awakened.",
+          "connection": "I've always been a fan of Transformers, but in media despite being a popular franchise in Pop culture, it's very rarely ever used or seen in when people are creating OCs online, so I figured I may as well show the franchise some love and representation in this class."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/galdamez-alejandro/artronus-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/galdamez-alejandro/artronus-rotation.gif",
           "altText": " "
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/galdamez-alejandro/artronus-world.jpg",
           "altText": ""
         },
         "styles": {
-          "background": "# ",
-          "text": "# "
+          "background": "#5F11A6",
+          "text": "#CE00FF"
         }
       },
       {
-        "student": " ",
+        "student": "Klara Gruhlke",
         "avatar": {
-          "name": " ",
-          "tagline": " ",
-          "about": " ",
-          "world": " ",
-          "connection": " "
+          "name": "Melis",
+          "tagline": "I want to sleep",
+          "about": "Melis is a 19 year old human who awakened as a Slime Summoner in a fantasy world. Growing up alone, she found companionship and family in her summoned slimes. She lives in a messy little home in Sable Village, spending her days sleeping, enjoying good food, practicing magic, and playing with her slimes. Dressed in a wizard like outfit with a hat, she dreams of living a peaceful, cozy life surrounded by her adorable companions.",
+          "world": "The world where Melis resides is called the harvest world, due to the bountiful amount of materials. The village she lives in is called Sable. Everything is mainly prosperous and calm, but the main enemies are monsters of all kinds trying to take over world.",
+          "connection": "My connection to Melis stems from my wanting to live a quiet life."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/gruhlke-klara/melis-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/gruhlke-klara/melis-rotation.gif",
           "altText": " "
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/gruhlke-klara/melis-world.jpg",
           "altText": ""
         },
         "styles": {
-          "background": "# ",
-          "text": "# "
+          "background": " ",
+          "text": "  "
         }
       },
       {
-        "student": " ",
+        "student": "Harley Hazz",
         "avatar": {
-          "name": " ",
-          "tagline": " ",
-          "about": " ",
-          "world": " ",
-          "connection": " "
+          "name": "Lilac",
+          "tagline": "The smallest and sassiest fashionista",
+          "about": "Lilac is a creative, stylized little cat-like creature who is 20 years old and only 8 inches tall. She comes from a family of whimsical cat-like creatures. She has always seen her world in a unique way and loves making outfits from the wild, random materials she finds on her plant. She’s drawn to anything artsy and spends her free time binge-watching reality love shows on Netflix. Her greatest goal is to have one of her dresses featured on the cover of Vogue. Some of her most distinguishing features are her big eyes and dramatic fake lashes. She’s usually wearing a dress and hat made of flowers. And of course, her signature scent is Ariana Grande’s Sweet Like Candy perfume.",
+          "world": "On a tiny planet far away called Bloomera, there lives Lilac. This planet is full of lush, oversized plants and flowers, and it’s home to villages of small, animal-like creatures that live peacefully with each other. They’ve built tiny homes and buildings using the large plants around them, so the villages are colorful and mesh with their surroundings. Lilac lives in her own handmade hut, surrounded by all this greenery. Her space is cluttered yet colorful because of her life as a fashion designer. She has dresses she’s made, fabrics, and materials scattered around her room, along with fashion magazines on her walls for inspiration. She prefers calming colors and natural light so even though her room is messy, there’s still something comforting about it. Her room is based around lots of pastels and purples which match her style. Like most twenty-year-olds, her space feels chaotic yet cute and intentional, showing off her personality and creativity.",
+          "connection": "I love seeing how people express themselves and art unapologetically, and I simply love cats."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/hazz-harley/lilac-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/hazz-harley/lilac-rotation.gif",
           "altText": " "
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/hazz-harley/lilac-world.jpg",
           "altText": ""
         },
         "styles": {
-          "background": "# ",
-          "text": "# "
+          "background": "#647D59",
+          "text": "#FFF9F3"
         }
       },
       {
-        "student": " ",
+        "student": "Zaki Karimi",
         "avatar": {
-          "name": " ",
-          "tagline": " ",
-          "about": " ",
-          "world": " ",
-          "connection": " "
+          "name": "Moz",
+          "tagline": "Stay Solid, Grow Gradually",
+          "about": "A lazy little rock with moss growing on him, which he can control like hands or almost anything else he needs. He's a little dense, though, so he sometimes forgets he can do that. In general he's quiet, and tries to stay out of conflict or work, but he likes to help when he can.",
+          "world": "The Isle of The Verdant Earth, a distant isle that was once home to a clan of sorcerors. These people eventually left, but the remnants of their magic transformed and granted sapience to many of the isle's rocks and plantlife.",
+          "connection": "I am so tired all of the time, I feel I'm a lazy person. This, then, encouraged me to make my character a little rock. I also desperately want to grow and improve. So,lazy like a rock, and it just so happens that 'growing like moss' works too."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/karimi-zaki/moz-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/karimi-zaki/moz-rotation.gif",
           "altText": " "
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/karimi-zaki/moz-world.jpg",
           "altText": ""
         },
         "styles": {
-          "background": "# ",
-          "text": "# "
+          "background": "#649962",
+          "text": "#E1DFDF"
         }
       },
       {
-        "student": " ",
+        "student": "Angel Laureano",
         "avatar": {
-          "name": " ",
-          "tagline": " ",
-          "about": " ",
-          "world": " ",
-          "connection": " "
+          "name": "Mochi",
+          "tagline": "The friendliest dog in the village",
+          "about": "Mochi was born under a small village up in the mountains. She was a lazy dog at first as she slept for majority of the day until the kids nearby would want to play with her. She would then learn kindness is vital to cheer others up and this made her very happy. She was nice to this one lady who would end up knitting her green sweater that she wears all the time. One day Mochi and the kids were playing near the forest until they decided to go in. This would embark their adventures as they uncovered territories they haven’t seen before. Each day Mochi and the kids would travel finding treasure and cherishing memories. This is all Mochi could ever ask for.",
+          "world": "Mochi is a young pup, who was born in a small village up in the mountains. Surrounded by loving and caring parents she was comforted by many. She would love to play outside and sleep in her cozy bed, playing with the childeren in the village. One day they came across a forest away from the village, they discovered new areas they never seen before. It was more villages filled with gloom and sadness. This bothered Mochi and pledged to make every other village happy through the kindess and care she was taught by. Now she sets off on adventures with friends close by making the world kinder each and every day!",
+          "connection": "Mochi is my dog in real life, just a silly playful dog that loves to go on walks and adventures. In a way I feel like she was meant for me, just the perfect dog."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/laureano-angel/mochi-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/laureano-angel/mochi-rotation.gif",
           "altText": " "
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/laureano-angel/mochi-world.jpg",
           "altText": ""
         },
         "styles": {
-          "background": "# ",
-          "text": "# "
+          "background": "#98DE7C",
+          "text": "#000000"
         }
       },
       {
-        "student": " ",
+        "student": "Spencer Lewis",
         "avatar": {
-          "name": " ",
-          "tagline": " ",
-          "about": " ",
-          "world": " ",
-          "connection": " "
+          "name": "Felonie",
+          "tagline": "mrrp mrrp mrrow *cocks shotgun cutely* :3",
+          "about": "Felonie is an abstract persona appearing as a timeless young woman in her mid-to-late twenties, a humanoid cat born in the quiet, forgotten towns of the American Midwest. Raised within a semi-nomadic northwestern tribe, she was abandoned during a violent conflict and left on her own, shaping her into a resourceful and adaptable traveler guided by stubborn hope. Now she roams a desolate world as both explorer and tourist, drifting between abandoned cabins and towns, sleeping in the back of her truck beneath the open stars while searching for any trace of civilization and company. She most notably wears a flowing weathered red overcoat, dusted with cat fur and marked with years of wear and tear, with dirty cowboy boots that click against the hard and frozen ground. She searches the long expanses of the American Midwest, driven by an unmovable hope and desire for a better future.",
+          "world": "In 2030 most of the world's crops start dying in unthinkably large droves, leaving countries heavily reliant on imported goods (like the United States) without a source of food. The whole world got more primal, as all the political differences and opinionated disagreements paled in comparison to the need for basic sustenance, rendering world order moot, ushering in a new age of humanity, where everyone scrambled for survival, and resorted to eating one another. For 5 years, chaos reigned, until the population had rapidly declined to 250 million worldwide. At some point, humans developed anthropomorphic sentience, creating humanoid creatures of a variety of animals that required less food and gave out just as much, if not more effort than the human race. In 2048, humanity is effectively being phased out of existence, the next line of evolution stepping in to take the reins. The only civilizations left are small, highly communal towns away from large cities. Some of these are kind to everyone, some are humans-only, and some (albeit very few) are animorph-only. Outside of these towns, shadows of the old government hold some power and sway in the large cities, and small, cannibalistic tribes and bandits wander the lush forests and remote, abandoned countryside, looking for victims and food.",
+          "connection": "I really love Fargo and this mixture of Minnesota Midwestern niceness and extreme violence is always super entertaining to me."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/lewis-spencer/felonie-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/lewis-spencer/felonie-rotation.gif",
           "altText": " "
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/lewis-spencer/felonie-world.jpg",
           "altText": ""
         },
         "styles": {
-          "background": "# ",
-          "text": "# "
+          "background": "#ED2024",
+          "text": "#FFFFFF"
         }
       },
       {
-        "student": " ",
+        "student": "Talia Malka",
         "avatar": {
-          "name": " ",
-          "tagline": " ",
-          "about": " ",
-          "world": " ",
-          "connection": " "
+          "name": "Anastasia",
+          "tagline": "The sweetest delinquent in fairy realm.",
+          "about": "Anastasia is 18-5000 years old. Passions include sewing, painting, hanging out with animals and nature and making collages. Knowledge/skills include immense empathy and ability to read emotions on anyone, overly creative brain always making bright out of dark. She lives with her many animals, She lives in the outdoors in her favorite constantly blooming tree full of ladybugs and glitter. Her goal is to find her purpose elsewhere, she knows she has so much love to give but those around her are already full of it! She knows there are people out there that could use her spirit and her love. Her motive came from one long trip she took almost to the outside portals where she found a sad looking bunny, who she figured came from the outside realm. Once spending a week with the bunny he went off happier than ever. who she figured came from the outside realm. Once spending a week with the bunny he went off happier than ever.",
+          "world": "She was born into a fairytale wonderland and raised surrounded by glitter and sparkles, sunshine and rainbows. She was raised full of love joy sparkles and friendship, located everywhere but nowhere to non-fairys. The overall environment consists of sparkly forests, all kinds of friendly animals and a large community of wizards, fairies and elves. Her and her mom, along with her bunny, live alone in a small two bedroom mushroom house. They live 5 minutes out into the forest from the main big city. Where wizards fairies elves and all other creatures of the Fairy Realm come together in unity.",
+          "connection": "Anastasia embodies the love glitter and endless sunshine that doesnt actually exist in the real world. Despite the amazing enviroment she was born into, she can ignore the sad truth that reveals itself at times. This never stops her from being the change she wants to see in the world, which is what I hope to embody in my real life."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/spring-2026/ ",
-          "altText": " "
+          "file": "/Images/semester/spring-2026/malka-talia/anastasia-animation.gif",
+          "altText": "animation"
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/malka-talia/anastasia-rotation.gif",
           "altText": " "
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/malka-talia/anastasia-world.jpg",
           "altText": ""
         },
         "styles": {
-          "background": "# ",
-          "text": "# "
+          "background": "#FA57BE",
+          "text": "#FFFFFF"
         }
       },
       {
-        "student": " ",
+        "student": "Logan Robidoux",
         "avatar": {
-          "name": " ",
-          "tagline": " ",
-          "about": " ",
-          "world": " ",
-          "connection": " "
+          "name": "Miller Robbie",
+          "tagline": "Sick-Nasty Yo!",
+          "about": "A red-hot silent streak of a vector-cat, Miller enjoys the outside world and all the opportunities it has to offer, good and bad. That might also be because he's really, really, dense, but Miller pays no mind! Doing most of the odd jobs around the city, Miller has found a way to befriend even the most hairiest of people on the planet, and takes pride in making new friends. Whether he's there to party, chill, or brush up on his sparring skills, Miller is always ready to take on the day one step at a time! Psst, also his favorite flavor of ice cream is cookie dough!",
+          "world": "From palm trees to sunny-side beaches and overrated vacation resorts, Olttega Island has it all! With all that glitters like gold, you'll be too numbed from the sun to look inwards at the rotting corpse of a once great island plagued by corporate greed and the lust of man. A once humble island is turned into a tourist trap for the rich and wealthy, leaving the native islanders to fight for themselves among the streets. However, new guests never come without new work oppurtunities! Pilot an exo-freighter to lift heavy cargo from ship-to-ship, maybe a street urchin who fixes jobs for others, or stand around as a disposable intern who gets the liberty of peering in on the closest breach to the planet's inner clockwork at the center of the island. The choice is yours!",
+          "connection": "I like green, beanies and smooth lines, what more can I say?"
         },
         "avatarGif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/robidoux-logan/miller-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/robidoux-logan/miller-rotation.gif",
           "altText": " "
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/robidoux-logan/miller-world.jpg",
           "altText": ""
         },
         "styles": {
-          "background": "# ",
-          "text": "# "
+          "background": "#BF1E2E",
+          "text": "#FFFFFF"
         }
       },
       {
-        "student": " ",
+        "student": "Jeise Rogel",
         "avatar": {
-          "name": " ",
-          "tagline": " ",
-          "about": " ",
-          "world": " ",
-          "connection": " "
+          "name": "Moss",
+          "tagline": "The Nightkeeper",
+          "about": "Moss is an ageless humanoid-elf-like creature brought to life from a mossy tree by a forest spirit. Due to their nocturnal nature, they were tasked by the Grand Forest Spirit to watch over graveyards, help maintain the forest and protect or banish spirits. Their hooved feet and owl wings helps them run swiftly and fly short distances silently to avoid any dangers that the large and vast forest might bring. They wear a magical owl mask that can express their emotions while also keeping their face hidden, keeping them as mysterious as the night. They do their job in order to keep the forest safe enough for them to live peacefully with their partner and two cats.",
+          "world": "In the Modern Fantasy Era of a place named Baltia, live creatures and humanoids that are connected with nature. In a small corner of Baltia there's a mystical forest full of several different kinds of Forest Spirits and every spirit there is tasked to protect the different parts of the forest to keep their home safe and healthy for all the creatures living there. Moss has lived in this forest all their life, doing their nightly task of protecting the Graveyards, collecting and creating trinkets for their collection, learning protective spells and perhaps causing some mischief to some unknowing passersby.",
+          "connection": "Moss is an expansive version of myself and my interests. They express the version of me that I fear to express openly but I one day hope to embody with full confidence."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/rogel-jeise/moss-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/rogel-jeise/moss-rotation.gif",
           "altText": " "
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/rogel-jeise/moss-world.jpg",
           "altText": ""
         },
         "styles": {
-          "background": "# ",
-          "text": "# "
+          "background": "#524085",
+          "text": "#FFFFFF"
         }
       },
       {
-        "student": " ",
+        "student": "Pranati Ryali",
         "avatar": {
-          "name": " ",
-          "tagline": " ",
-          "about": " ",
-          "world": " ",
-          "connection": " "
+          "name": "Buzzbit",
+          "tagline": "Where every buzz brings joy",
+          "about": "Buzzbit is a tiny, energetic creature who loves solving problems for others. In this story, he follows a trail of sparkles to help a squirrel named Nibby find her missing acorn lantern. Using his curiosity and courage, Buzzbit discovers the lantern drifting on a leaf in the river and bravely retrieves it. By returning it, he brings comfort to Nibby and learns that even small heroes can make a big impact. Buzzbit discovers a shimmering ladder made of soft clouds rising high into the sky. Curious and excited, he climbs it and reaches a floating sky‑garden where the wind sprites live. The sprites are upset because their Wind Chime Tree has stopped ringing, and without its sound, the breezes in the forest below have become weak and uneven.",
+          "world": "Buzzbit loves to stay at home in the snow place. Buzzbit lives in a place in Sri Lanka (India). I did the colors of yellow, brown, peach, and all of the furniture. Buzzbit looks happy and he wants to see outside the window because of the snow. Buzzbit wants to stay inside because it’s cold outside. The bed and couch are comfortable while he was sleeping and sitting. Buzzbit wants to sit in the fireplace. He wants to be warm and cozy.",
+          "connection": "I like Buzzbit because it can fly and somehow lift my feelings with it every time"
         },
         "avatarGif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/ryali-pranati/buzzbit-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/ryali-pranati/buzzbit-rotation.gif",
           "altText": " "
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/ryali-pranati/buzzbit-world.jpg",
           "altText": ""
         },
         "styles": {
-          "background": "# ",
-          "text": "# "
+          "background": "#fDEB01",
+          "text": "#FF0000"
         }
       },
       {
-        "student": " ",
+        "student": "Pranavi Ryali",
         "avatar": {
-          "name": " ",
-          "tagline": " ",
-          "about": " ",
-          "world": " ",
-          "connection": " "
+          "name": "Rapunzel",
+          "tagline": "Flower gleam and glow,let your power shine!",
+          "about": "Rapunzel is a tale of love, longing, and the consequences of forbidden desires. It is a classic fairy tale that has been retold and adapted in vanous forms, including the animated film \"Tangled.\" In the classic Brothers Grimm fairy tale, a witch locks a girl named Rapunzel in a high, doorless tower, accessing her via her exceptionally long, golden hair. A prince discovers her, falls in love, and plots an escape, but the witch separates them, banishing Rapunzel and blinding the prince before they are finally reunited. Rapunzel is a fairy tale about a girt with long, magical hair locked in a tower by a witch. Princess Rapunzel is a spirited teenager with 70 feet of magical, healing golden hair who has spent her life locked in a tower by Mother Gothel, who kidnapped her to retain etemal.",
+          "world": "In the year 2017, I’m talking about the Rapunzel story for summary was love, longing, and classics. Rapunzel lived in India and then she moved to the USA. The trees have a background and it’s beautiful to see hues/saturation. I made the dark blue and red wall heart behind shapes and it seems light and dark colors. The stone arch has hardness and makes me feel light yellow and emotions to see it. The doors are from India. It has beautiful flowers for the front door and makes me feel happy and impressed and also the background has sparkles and dots to see higher like white and colored dots. I see the table and it seems like a texture and it may be able to see it. The chairs have light blue on them so I make shapes using the Photoshop shapes tool. The windows have gradients for black and white.",
+          "connection": "I enjoyed Intro to Digital Media because I love creating Rapunzel‑inspired work, especially with music."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/ryali-pranavi/rapunzel-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/ryali-pranavi/rapunzel-rotation.gif",
           "altText": " "
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/spring-2026/ ",
+          "file": "/Images/semester/spring-2026/ryali-pranavi/rapunzel-world.jpg",
           "altText": ""
         },
         "styles": {
-          "background": "# ",
-          "text": "# "
-        }
-      },
-      {
-        "student": " ",
-        "avatar": {
-          "name": " ",
-          "tagline": " ",
-          "about": " ",
-          "world": " ",
-          "connection": " "
-        },
-        "avatarGif": {
-          "file": "/src/assets/semester/spring-2026/ ",
-          "altText": " "
-        },
-        "avatar360Gif": {
-          "file": "/src/assets/semester/spring-2026/ ",
-          "altText": " "
-        },
-        "avatarEnvImg": {
-          "file": "/src/assets/semester/spring-2026/ ",
-          "altText": ""
-        },
-        "styles": {
-          "background": "# ",
-          "text": "# "
-        }
-      },
-      {
-        "student": " ",
-        "avatar": {
-          "name": " ",
-          "tagline": " ",
-          "about": " ",
-          "world": " ",
-          "connection": " "
-        },
-        "avatarGif": {
-          "file": "/src/assets/semester/spring-2026/ ",
-          "altText": " "
-        },
-        "avatar360Gif": {
-          "file": "/src/assets/semester/spring-2026/ ",
-          "altText": " "
-        },
-        "avatarEnvImg": {
-          "file": "/src/assets/semester/spring-2026/ ",
-          "altText": ""
-        },
-        "styles": {
-          "background": "# ",
-          "text": "# "
-        }
-      },
-      {
-        "student": " ",
-        "avatar": {
-          "name": " ",
-          "tagline": " ",
-          "about": " ",
-          "world": " ",
-          "connection": " "
-        },
-        "avatarGif": {
-          "file": "/src/assets/semester/spring-2026/ ",
-          "altText": " "
-        },
-        "avatar360Gif": {
-          "file": "/src/assets/semester/spring-2026/ ",
-          "altText": " "
-        },
-        "avatarEnvImg": {
-          "file": "/src/assets/semester/spring-2026/ ",
-          "altText": ""
-        },
-        "styles": {
-          "background": "# ",
-          "text": "# "
+          "background": "#FF0098",
+          "text": "#FFF9F3"
         }
       }
     ]
