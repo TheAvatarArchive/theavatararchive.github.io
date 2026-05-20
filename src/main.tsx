@@ -10,15 +10,21 @@ import ProfilePage from "./pages/ProfilePage.tsx";
 const router = createBrowserRouter([
     {
         path: "/",
-        element: <App />,
+        Component: App,
     },
     {
         path: "/class/:c",
-        element: <ClassPage />,
+        Component: ClassPage,
     },
     {
         path: "/class/:c/profile/:a",
-        element: <ProfilePage />,
+        Component: ProfilePage,
+        // children: [
+        //     {
+        //         path: "/class/:c",
+        //         Component: ClassPage,
+        //     },
+        // ]
     },
 ]);
 

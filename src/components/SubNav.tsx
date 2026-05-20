@@ -9,7 +9,7 @@ function SubNav({ courseSemester, courseName }) {
                     <Link to={"/"}>Home</Link>
                 </div>
                 <div className="text-right">
-                    {courseSemester} : {courseName}
+                    <Link to={"/class/:c"}>{courseSemester} : {courseName}</Link>
                 </div>
             </div>
         </div>
