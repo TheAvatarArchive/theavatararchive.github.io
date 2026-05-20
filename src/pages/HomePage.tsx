@@ -7,32 +7,33 @@ function HomePage(props) {
 
     return (
         <>
-            <div className="h-full w-full">
+            <div className="h-1/6 mb-20">
                 <Title />
-                <div className="flex h-100 w-5/6 ml-auto mr-auto gap-10">
-                    <div className="flex-3/4 align-center justify-center text-xl md:text-4xl text-justify pt-6 pb-6">
-                        The Avatar Archive is a growing archive of digital selves — a yearly collection of student-made avatars from DES
-                        M121: Introduction to Digital Media @ Moorpark College.
-                    </div>
-                    <div className="flex-1/4 align-middle justify-center text-xl md:text-4xl text-justify pt-6 pb-6">
-                        <div className="mb-3 text-lg uppercase font-semibold">Explore</div>
-                        <ul>
-                            {/*{ classDirectory }*/}
-                            <li className="text-lg mb-2">
-                                <Link to={"/class/70914"}>
-                                    Fall 2025 : 70914
-                                </Link>
-                            </li>
-                            <li className="text-lg mb-2">
-                                <Link to={"/class/72001"}>
-                                    Fall 2025 : 72001
-                                </Link>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <Footer />
             </div>
+            <div className="grid grid-cols-8 gap-40 h-4/6 w-5/6 m-auto overflow-y-clip ">
+                <div className="col-span-6 text-xl md:text-5xl/16 pr-40">
+                    The Avatar Archive is a growing archive of digital selves — a yearly collection of student-made avatars from DES
+                    M121: Introduction to Digital Media @ Moorpark College.
+                </div>
+                <div className="col-span-2 md:text-2xl">
+                    <div className="mb-3 uppercase font-bold text-left pt-4">Explore</div>
+                    <ul>
+                        <li className="mb-3 font-medium">
+                            <Link to={"/class/70914"}>
+                                Fall 2025 : 70914
+                            </Link>
+                        </li>
+                        <li className="mb-3 font-medium">
+                            <Link to={"/class/72001"}>
+                                Fall 2025 : 72001
+                            </Link>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            {/*<div className="fixed bottom-0 w-screen">*/}
+            {/*    <Footer />*/}
+            {/*</div>*/}
         </>
     )
 }

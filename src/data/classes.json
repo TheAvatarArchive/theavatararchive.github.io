@@ -4,6 +4,7 @@
     "semester": "Fall-2025",
     "name": "70914",
     "time": "Morning Class",
+    "group": "Images/fall25-morning-class.png",
     "roster": [
       {
         "student": "Luna Abarta",
@@ -15,15 +16,15 @@
           "connection": "She left me roses boiy the staoirs"
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/abarta-luna/crimson-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/abarta-luna/crimson-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/abarta-luna/crimson-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/abarta-luna/crimson-rotation.gif",
           "altText": "Full 360 view of Barghests' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/abarta-luna/crimson-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/abarta-luna/crimson-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -41,15 +42,15 @@
           "connection": "I love knights"
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/bartholomew-elijah/barghest-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/bartholomew-elijah/barghest-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/bartholomew-elijah/barghest-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/bartholomew-elijah/barghest-rotation.gif",
           "altText": "Full 360 view of Barghests' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/bartholomew-elijah/barghest-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/bartholomew-elijah/barghest-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -67,15 +68,15 @@
           "connection": "I definitely took inspiration from my Destiny 2 Guardian cuz we all know fashion is the ture endgame"
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/carter-aidan/cosmicsheriff-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/carter-aidan/cosmicsheriff-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/carter-aidan/cosmicsheriff-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/carter-aidan/cosmicsheriff-rotation.gif",
           "altText": "Full 360 view of Cosmic Sheriffs' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/carter-aidan/cosmicsheriff-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/carter-aidan/cosmicsheriff-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -93,15 +94,15 @@
           "connection": "I love D&D, and I love knights!!!"
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/garcia-evan/logan-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/garcia-evan/logan-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/garcia-evan/logan-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/garcia-evan/logan-rotation.gif",
           "altText": "Full 360 view of character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/garcia-evan/logan-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/garcia-evan/logan-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -119,15 +120,15 @@
           "connection": "I wanted a creative companion who could jump into ideas with me, keep the energy high, and help me move forward whenever I felt stuck in the creative process or the inspiration slowed down."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/gesser-diana/memo-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/gesser-diana/memo-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/gesser-diana/memo-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/gesser-diana/memo-rotation.gif",
           "altText": "Full 360 view of  character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/gesser-diana/memo-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/gesser-diana/memo-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -145,15 +146,15 @@
           "connection": "I sometimes feel like an outsider, or alien, and Bubbles represents that. I also just like drawing cute aliens."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/goldbaum-skye/bubbles-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/goldbaum-skye/bubbles-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/goldbaum-skye/bubbles-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/goldbaum-skye/bubbles-rotation.gif",
           "altText": "Full 360 view of Memos' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/ggoldbaum-skye/bubbles-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/goldbaum-skye/bubbles-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -171,15 +172,15 @@
           "connection": "Ride the ride, the world as your steed! I made this as a story for myself to tell, of fun, of chaos, and a light in the dark."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/gonzales-adrian/mystic-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/gonzales-adrian/mystic-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/gonzales-adrian/mystic-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/gonzales-adrian/mystic-rotation.gif",
           "altText": "Full 360 view of Mystic character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/gonzales-adrian/mystic-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/gonzales-adrian/mystic-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -197,15 +198,15 @@
           "connection": "I connect to Marty-Moon because I am a highly intuitive individual and enjoy helping and inspiring people and passing out love."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/grose-kia/martymoon-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/grose-kia/martymoon-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/grose-kia/martymoon-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/grose-kia/martymoon-rotation.gif",
           "altText": "Full 360 view of  character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/grose-kia/martymoon-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/grose-kia/martymoon-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -216,22 +217,22 @@
       {
         "student": "Lucas Guillote",
         "avatar": {
-          "name": "Mixinmatch",
-          "tagline": " ",
-          "about": "",
-          "world": " ",
-          "connection": " "
+          "name": "Mixin Match",
+          "tagline": "The best music artist and performer in Echo City",
+          "about": "Mixin Match (or just \"Max\" for short) was first built as another robot for carrying out manual labor. But after finding themselves distracted by music while working, they were deemed inefficient by the corporation that made them. Instead of being scrapped, the corporation decided to sell them off to a music agency, which would give the robot an outlet for its newly acquired interest and the corporation a sum of money. Since then, Max has been making original songs, but also a couple of covers of other artists’ songs. Max has the physical capacity for performing some manual tasks and programmed mental capacity to quickly calculate equations. Max can also replicate male and female voices, create/reinvent dance routines for the songs they make, and even mix together their songs and dances on the spot.",
+          "world": "Mixin Match lives in the futuristic Echo City, which is a symbolic name for the many sounds created and ‘echoed’ across the city. Echo City is heavily based around the creation and celebration of the art of music. Shows, concerts, and performances are the biggest forms of entertainment in the city. Echo City is a place that keeps check on peace in spite of the many celebrations which could be seen as distractions. Echo city has a sleek and industrial aesthetic, combined with bright neon colors and silver metal.",
+          "connection": "Like Mixin Match, I love multiple types of music. I like imagining what different genres of music would sound like together."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/guillote-lucas/mixinmatch-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/guillote-lucas/mixinmatch-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/guillote-lucas/mixinmatch-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/guillote-lucas/mixinmatch-rotation.gif",
           "altText": "Full 360 view of  character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/guillote-lucas/mixinmatch-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/guillote-lucas/mixinmatch-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -249,15 +250,15 @@
           "connection": "One day, this could be me, myself, and I—at least, I hope so, anyway!"
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/gutierrez-drew/gutierrezd-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/gutierrez-drew/gutierrezd-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/gutierrez-drew/gutierrezd-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/gutierrez-drew/gutierrezd-rotation.gif",
           "altText": "Full 360 view of  character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/gutierrez-drew/gutierrezd-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/gutierrez-drew/gutierrezd-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -275,15 +276,15 @@
           "connection": "I like making characters that I find pretty and a bit ugly."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/hernandez-sam/allister-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/hernandez-sam/allister-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/hernandez-sam/allister-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/hernandez-sam/allister-rotation.gif",
           "altText": "Full 360 view of  character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/hernandez-sam/allister-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/hernandez-sam/allister-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -301,15 +302,15 @@
           "connection": "I am also not the smartest pup in the park"
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/hill-lain/carrion-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/hill-lain/carrion-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/hill-lain/carrion-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/hill-lain/carrion-rotation.gif",
           "altText": "Full 360 view of  character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/hill-lain/carrion-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/hill-lain/carrion-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -327,15 +328,15 @@
           "connection": "I've always felt a little like Streeng Beeng. Limbs sticking out all janky and thin. Round bulbs for elbows jettisoning out. Feels weird, but I love diving into weird."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/ibarra-diego/streengbeeng-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/ibarra-diego/streengbeeng-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/ibarra-diego/streengbeeng-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/ibarra-diego/streengbeeng-rotation.gif",
           "altText": "Full 360 view of  character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/ibarra-diego/streengbeeng-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/ibarra-diego/streengbeeng-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -353,15 +354,15 @@
           "connection": "I love tattoos and want to become a tattoo artist and also love to play shooter games."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/inzalaco-brianna/tatiana-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/inzalaco-brianna/tatiana-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/inzalaco-brianna/tatiana-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/inzalaco-brianna/tatiana-rotation.gif",
           "altText": "Full 360 view of  character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/inzalaco-brianna/tatiana-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/inzalaco-brianna/tatiana-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -379,15 +380,15 @@
           "connection": "Felleg appeared to me in a dream one night, and I couldn't pass up on the opportunity to turn him into a cute little snot."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/kahoe-victoria/felleg-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/kahoe-victoria/felleg-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/kahoe-victoria/felleg-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/kahoe-victoria/felleg-rotation.gif",
           "altText": "Full 360 view of  character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/kahoe-victoria/felleg-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/kahoe-victoria/felleg-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -405,15 +406,15 @@
           "connection": "I can't relate to this avatar on a personal level, he was just some goofy avatar that I made."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/mazariego-chris/joebro-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/mazariego-chris/joebro-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/mazariego-chris/joebro-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/mazariego-chris/joebro-rotation.gif",
           "altText": "Full 360 view of  character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/mazariego-chris/joebro-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/mazariego-chris/joebro-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -431,15 +432,15 @@
           "connection": "Daighaynnghe is a (slightly) dramatized caricature of my own mother, Diana, even down to her name. She embodies many physical attributes and personal characteristics with her, though Daighaynnghe remains unique enough to stand alone. Think \"my mom\" meets \"drag queen\". ♡xoxo gossip girl♡"
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/merville-travis/dn-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/merville-travis/dn-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/merville-travis/dn-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/merville-travis/dn-rotation.gif",
           "altText": "Full 360 view of  character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/merville-travis/dn-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/merville-travis/dn-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -457,15 +458,15 @@
           "connection": "I feel cozy and I want to drink a hot chocolate."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/porat-talia/hugo-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/porat-talia/hugo-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/porat-talia/hugo-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/porat-talia/hugo-rotation.gif",
           "altText": "Full 360 view of  character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/porat-talia/hugo-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/porat-talia/hugo-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -480,18 +481,18 @@
           "tagline": "Baddass Punk Teenage Rebbel from the Future",
           "about": "Jhaden is a 19-year-old streetwise rebel who uses neon art and style as her weapon of defiance. Her satin bomber, worn loose off one shoulder, is streaked with glowing graffiti accents that mark her as both artist and outlaw. She travels fast on a custom cyberpunk skateboard and keeps spray cans at her belt, ready to tag the city with rebellion. A sleek glowing visor hides her expression, giving her a fearless, untouchable presence. Agile and quick, she relies on speed and street smarts over brute strength. Every mark she leaves behind is both art and a message — a warning to those in power. Confident and resourceful, she thrives in the chaos of the neon-lit streets. Jhaden is more than a survivor — she’s the spark rewriting the city’s story.",
           "world": "Name of the Place: People call it The Spine because all the tall buildings stacked together look like a giant backbone. Time: It’s in the future, but not the shiny perfect kind — more broken down and messy, with neon lights everywhere. Place & Culture: It’s a mix of a bunch of different cultures smashed into one giant city. There are markets, street art, and music on the lower levels, but the rich and corporations live way higher up. Politics: It’s not peaceful. The corporations try to control everything, but the people in the streets push back with their own rules, gangs, and art. Visual Identity: The city looks industrial and crowded. Everything is steel, glass, and wires, but it’s covered in glowing neon signs, graffiti, and colors like blue, pink, purple, and yellow. Living Space Housing: Jhaden lives in a small apartment halfway up the city towers. It’s not fancy, but it has a big window that shows the neon city outside. Decor: The first thing you’d notice is all the glowing stuff. Her walls are covered in graffiti tags, posters, and LED lights. Spray cans and her skateboard are always lying around.",
-          "connection": " "
+          "connection": "She’s sexy af"
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/quintanilla-sebastian/jhaden-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/quintanilla-sebastian/jhaden-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/quintanilla-sebastian/jhaden-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/quintanilla-sebastian/jhaden-rotation.gif",
           "altText": "Full 360 view of  character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/quintanilla-sebastian/jhaden-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/quintanilla-sebastian/jhaden-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -509,15 +510,15 @@
           "connection": "Those two enjoy to travel, very curious, and happy to explore somewhere new."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/santos-alejandro/anders-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/santos-alejandro/anders-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/santos-alejandro/anders-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/santos-alejandro/anders-rotation.gif",
           "altText": "Full 360 view of  character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/santos-alejandro/anders-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/santos-alejandro/anders-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -535,15 +536,15 @@
           "connection": "Watching my son become the amazing person he is inspires me to create something that represents him"
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/viallasenor-marlene/mateo-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/viallasenor-marlene/mateo-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/viallasenor-marlene/mateo-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/viallasenor-marlene/mateo-rotation.gif",
           "altText": "Full 360 view of  character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/viallasenor-marlene/mateo-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/viallasenor-marlene/mateo-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -561,15 +562,15 @@
           "connection": "I love little things, nature, and the west."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/yant-nat/sally-animation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/yant-nat/sally-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/am-roster/yant-nat/sally-rotation.gif",
+          "file": "/Images/semester/fall-2025/am-roster/yant-nat/sally-rotation.gif",
           "altText": "Full 360 view of  character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/am-roster/yant-nat/sally-world.jpg",
+          "file": "/Images/semester/fall-2025/am-roster/yant-nat/sally-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -595,15 +596,15 @@
           "connection": "I love flowers and San Francisco so I combined the two."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/cole-nash/sevaw-animation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/cole-nash/sevaw-animation.gif",
           "altText": "Sevaw waving"
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/cole-nash/sevaw-rotation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/cole-nash/sevaw-rotation.gif",
           "altText": "Full 360 view of Sevaws' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/cole-nash/sevaw-world.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/cole-nash/sevaw-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -621,15 +622,15 @@
           "connection": "My personal connection to scruffy is the disheveled lifestyle we both seem to lead, with more passion for projects and hobbies over self-love and an affliction for life."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/duenas-damian/scruffy-animation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/duenas-damian/scruffy-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/duenas-damian/scruffy-rotation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/duenas-damian/scruffy-rotation.gif",
           "altText": "Full 360 view of Scruffys' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/duenas-damian/scruffy-world.png",
+          "file": "/Images/semester/fall-2025/pm-roster/duenas-damian/scruffy-world.png",
           "altText": ""
         },
         "styles": {
@@ -647,15 +648,15 @@
           "connection": "Narwhals can be ninjas!"
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/fabros-martin/narly-animation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/fabros-martin/narly-animation.gif",
           "altText": "Narly looks at opening doors behind him"
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/fabros-martin/narly-rotation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/fabros-martin/narly-rotation.gif",
           "altText": "Full 360 view of Narlys' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/fabros-martin/narly-world.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/fabros-martin/narly-world.jpg",
           "altText": "Narly looking in his room"
         },
         "styles": {
@@ -673,15 +674,15 @@
           "connection": "She represents me, one without worries and one who strives to always be the best version of herself."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/farr-aly/aly-animation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/farr-aly/aly-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/farr-aly/aly-rotation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/farr-aly/aly-rotation.gif",
           "altText": "Full 360 view of Alys' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/farr-aly/aly-world.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/farr-aly/aly-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -699,15 +700,15 @@
           "connection": "I like listening to music, and I i kinda wanted to create a character that creates music."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/garcia-harry/martin-animation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/garcia-harry/martin-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/garcia-harry/martin-rotation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/garcia-harry/martin-rotation.gif",
           "altText": "Full 360 view of Martins' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/garcia-harry/martin-world.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/garcia-harry/martin-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -725,15 +726,15 @@
           "connection": "I love cars"
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/halimi-shabir/masih-animation.jpg",
-          "altText": " "
+          "file": "/Images/semester/fall-2025/pm-roster/halimi-shabir/masih-animation.gif",
+          "altText": "Masih animation"
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/halimi-shabir/masih-rotation.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/halimi-shabir/masih-rotation.png",
           "altText": "Full 360 view of Masihs' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/halimi-shabir/masih-world.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/halimi-shabir/masih-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -751,15 +752,15 @@
           "connection": "I've always loved YA female protagonists with angsty backstories. THUS, I decided to create one of my own! :)"
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/harden-lauren/mina-animation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/harden-lauren/mina-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/harden-lauren/mina-rotation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/harden-lauren/mina-rotation.gif",
           "altText": "Full 360 view of Minas' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/harden-lauren/mina-world.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/harden-lauren/mina-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -770,22 +771,22 @@
       {
         "student": "Jaleesa Hawkins",
         "avatar": {
-          "name": " ",
+          "name": "Maisha",
           "tagline": " ",
           "about": "",
           "world": "",
           "connection": " "
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/hawkins-jaleesa/maisha-animation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/hawkins-jaleesa/maisha-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/hawkins-jaleesa/maisha-rotation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/hawkins-jaleesa/maisha-rotation.gif",
           "altText": "Full 360 view of Maishas'' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/hawkins-jaleesa/maisha-world.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/hawkins-jaleesa/maisha-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -803,15 +804,15 @@
           "connection": "I love the idea of absurd characters"
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/klawitter-brennan/mrchip-animation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/klawitter-brennan/mrchip-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/klawitter-brennan/mrchip-rotation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/klawitter-brennan/mrchip-rotation.gif",
           "altText": "Full 360 view of Mr.Chips' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/klawitter-brennan/mrchip-world.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/klawitter-brennan/mrchip-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -829,15 +830,15 @@
           "connection": "Quailbur is always there for me when I'm in a digital jam."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/krill-zoe/quailbur-animation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/krill-zoe/quailbur-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/krill-zoe/quailbur-rotation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/krill-zoe/quailbur-rotation4.gif",
           "altText": "Full 360 view of Quailburs' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/krill-zoe/quailbur-world.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/krill-zoe/quailbur-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -855,15 +856,15 @@
           "connection": "Petal is everything I would be in a world full of magic."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/moreno-megan/petal-animation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/moreno-megan/petal-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/moreno-megan/petal-rotation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/moreno-megan/petal-rotation.gif",
           "altText": "Full 360 view of  character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/moreno-megan/petal-world.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/moreno-megan/petal-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -881,15 +882,15 @@
           "connection": "He's goated."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/palma-ronny/atlas-animation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/palma-ronny/atlas-animation.gif",
           "altText": "Altas doing magic"
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/palma-ronny/atlas-rotation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/palma-ronny/atlas-rotation.gif",
           "altText": "Full 360 view of Atlass' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/palma-ronny/atlas-world.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/palma-ronny/atlas-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -907,15 +908,15 @@
           "connection": "Ipsofacta is meant to be representative of the kind of creative I want to be myself, one lacking inhibition and looking out for those around them."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/richardson-liam/ipsofacta-animation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/richardson-liam/ipsofacta-animation.gif",
           "altText": "Ipsofacta smoking"
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/richardson-liam/ipsofacta-rotation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/richardson-liam/ipsofacta-rotation.gif",
           "altText": "Full 360 view of Ipsofactas' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/richardson-liam/ipsofacta-world.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/richardson-liam/ipsofacta-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -933,20 +934,20 @@
           "connection": "I have a facination towards creature designs based on concepts. This one in particular I created based on my own feelings and memories."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/rios-forrest/remi-animation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/rios-forrest/remi-animation.gif",
           "altText": "Reminicience floating"
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/rios-forrest/remi-rotation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/rios-forrest/remi-rotation.gif",
           "altText": "Full 360 view of Reminiciences' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/rios-forrest/remi-world.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/rios-forrest/remi-world.jpg",
           "altText": ""
         },
         "styles": {
           "background": "#0F0628",
-          "text": "#FBDA6B"
+          "text": "#FFF9F3"
         }
       },
       {
@@ -959,15 +960,15 @@
           "connection": "I Like silly superheros with masks and cool powers!"
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/robertson-william/zing-animation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/robertson-william/zing-animation.gif",
           "altText": "Zingularity floating in front of a black hole"
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/robertson-william/zing-rotation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/robertson-william/zing-rotation.gif",
           "altText": "Full 360 view of Zingularitys' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/robertson-william/zing-world.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/robertson-william/zing-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -985,15 +986,15 @@
           "connection": "I enjoy the creation of art and digital media, using this median to represent my passions."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/thompson-zach/tock-animation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/thompson-zach/tock-animation.gif",
           "altText": "Tock with gears rotating behind him"
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/thompson-zach/tock-rotation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/thompson-zach/tock-rotation.gif",
           "altText": "Full 360 view of Tocks' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/thompson-zach/tock-world.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/thompson-zach/tock-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -1011,15 +1012,15 @@
           "connection": "A character I have had in mind for a while."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/vasquez-isaac/sean-animation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/vasquez-isaac/sean-animation.gif",
           "altText": "Sean walking away from exploding buildings"
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/vasquez-isaac/sean-rotation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/vasquez-isaac/sean-rotation.png",
           "altText": "Full 360 view of Seans' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/vasquez-isaac/sean-world.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/vasquez-isaac/sean-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -1037,15 +1038,15 @@
           "connection": "I may seem quiet and isolated at first but once you get to know me, you'll gain good loyal companion and a friend that will protect and be there for you whenever possible."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/vega-kenny/beastie-animation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/vega-kenny/beastie-animation.gif",
           "altText": "Beastie at an arcade"
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/vega-kenny/beastie-rotation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/vega-kenny/beastie-rotation.gif",
           "altText": "Full 360 view of Beasties' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/vega-kenny/beastie-world.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/vega-kenny/beastie-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -1063,15 +1064,15 @@
           "connection": "Drakov represents me trying to fit in with others, in my own way."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/weinstein-tyler/drakov-animation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/weinstein-tyler/drakov-animation.gif",
           "altText": "Drakov holding a fork outside"
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/pm-roster/weinstein-tyler/drakov-rotation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/weinstein-tyler/drakov-rotation.gif",
           "altText": "Full 360 view of Drakovs' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/pm-roster/weinstein-tyler/drakov-world.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/weinstein-tyler/drakov-world.jpg",
           "altText": ""
         },
         "styles": {
@@ -1083,21 +1084,21 @@
         "student": "Diego Gonzalez",
         "avatar": {
           "name": "Amoebruh",
-          "tagline": "The Greatest Guardian\n",
-          "about": "Amoebruh is a vibrant, hyper-malleable, creature whose entire body ripples with neon energy and swirling psychelic colors. He has the ability to morph into any size he wants from the size of a nickel to as big as a skyscraper.\n\n",
-          "world": "Cell City is a permanently electric blue twilight sky filled with giant glowing microbes that float above the towering spires of the city, sleek buildings that serve as receivers of the moons energy. A living cellular moon sits in the center of the world. The outer walls stretch, shift and divide. These serve as borders they're alive and prevent the worlds bio-energies from spilling out into the void.\n\n",
+          "tagline": "The Greatest Guardian",
+          "about": "Amoebruh is a vibrant, hyper-malleable, creature whose entire body ripples with neon energy and swirling psychelic colors. He has the ability to morph into any size he wants from the size of a nickel to as big as a skyscraper.",
+          "world": "Cell City is a permanently electric blue twilight sky filled with giant glowing microbes that float above the towering spires of the city, sleek buildings that serve as receivers of the moons energy. A living cellular moon sits in the center of the world. The outer walls stretch, shift and divide. These serve as borders they're alive and prevent the worlds bio-energies from spilling out into the void.",
           "connection": "I created this character because like him I evolve & adapt to my environment, in a world that is constantly changing."
         },
         "avatarGif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/gonzales-diego/amoebruh-animation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/gonzales-diego/amoebruh-animation.gif",
           "altText": " "
         },
         "avatar360Gif": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/pm-roster/gonzales-diego/amoebruh-rotation.gif",
+          "file": "/Images/semester/fall-2025/pm-roster/gonzales-diego/amoebruh-rotation.gif",
           "altText": "Full 360 view of Amoebruhs' character design"
         },
         "avatarEnvImg": {
-          "file": "/src/assets/semester/fall-2025/pm-roster/pm-roster/gonzales-diego/amoebruh-world.jpg",
+          "file": "/Images/semester/fall-2025/pm-roster/gonzales-diego/amoebruh-world.jpg",
           "altText": ""
         },
         "styles": {

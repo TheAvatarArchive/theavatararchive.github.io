@@ -33,7 +33,7 @@ html {
     box-sizing: border-box;
     width: 100%;
     height: 100%;
-    /*cursor: url("../TemplateAssets/retro-cursor.svg"), auto;*/
+    cursor: url("../Public/retro-cursor.svg"), auto;
 }
 
 /* Set core body defaults */
