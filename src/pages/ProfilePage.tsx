@@ -40,7 +40,7 @@ function ProfilePage(props) {
                 src={studentData.avatarEnvImg.file}
                 altText={studentData.avatarEnvImg.altText}
             />
-            <div style={{backgroundColor: studentData.styles.background, color: studentData.styles.color}}>
+            <div style={{backgroundColor: studentData.styles.background, color: studentData.styles.text}}>
                 <AvatarConnectionSection
                     avatarImg={studentData.avatarGif.file}
                     altText={studentData.avatarGif.altText}

@@ -2,7 +2,7 @@
 function AvatarBlurbSection({img, name, tagline, about, world}) {
 
     return (
-        <div className="grid grid-cols-10 gap-40 text-4xl w-4/5 m-auto pt-16 pb-16">
+        <div className="grid grid-cols-10 gap-40 text-4xl w-4/5 m-auto pt-16 pb-16  min-h-[calc(100vh-8rem)] ">
             <div className="col-span-4">
                 <img src={img} alt=""/>
             </div>

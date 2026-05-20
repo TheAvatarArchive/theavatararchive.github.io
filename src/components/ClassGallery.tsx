@@ -10,17 +10,17 @@ function ClassGallery() {
         return course.name == c
     }
 
-        const [courseData, setCourseData] = useState(data ? data.find(isClass) :  {})
+    const [courseData, setCourseData] = useState(data ? data.find(isClass) :  {})
 
     return (
-            <div>
-                <SubNav courseName={courseData.name} courseSemester={courseData.semester} />
-                <div className="w-4/5 pt-20 pb-20 m-auto grid grid-cols-4 gap-14 cursor-pointer">
-                    { courseData.roster.map((student)=>{
-                        return  <Avatar key={student.student} c={courseData.name} {...student} />
-                    })}
-                </div>
+        <div>
+            <SubNav courseName={courseData.name} courseSemester={courseData.semester} />
+            <div className="w-4/5 pt-20 pb-20 m-auto grid grid-cols-3 gap-14">
+                { courseData.roster.map((student)=>{
+                    return  <Avatar className={"min-w-full"} key={student.student} c={courseData.name} {...student} />
+                })}
             </div>
+        </div>
     )
 }
 

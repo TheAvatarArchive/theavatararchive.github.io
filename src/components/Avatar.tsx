@@ -4,9 +4,9 @@ function Avatar(props) {
 
     return (
         <>
-            <Link  to={"/class/"+props.c+"/profile/"+props.avatar.name}>
+            <Link to={"/class/"+props.c+"/profile/"+props.avatar.name}>
                 <img
-                    className="rounded-3xl"
+                    className="rounded-3xl min-w-full"
                     src={props.avatarGif.file}
                     alt={props.avatarGif.altText}
                 />
