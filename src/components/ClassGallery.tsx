@@ -10,8 +10,10 @@ function ClassGallery() {
         return course.name == c
     }
 
+    // @ts-ignore
     const [courseData, setCourseData] = useState(data ? data.find(isClass) :  {})
 
+    // @ts-expect-error
     return (
         <div>
             <SubNav courseName={courseData.name} courseSemester={courseData.semester} />
