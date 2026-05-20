@@ -1,16 +1,16 @@
 import {Link} from "react-router";
 
-function SubNav({ rightData1, rightData2, previousPage }) {
+function SubNav({urlLink, rightData1, rightData2, previousPage }) {
 
 
     return (
-        <div className="pb-4 text-2xl font-semibold uppercase w-full border-b-2 border-primary-200">
-            <div className="grid grid-cols-2 w-4/5 m-auto">
+        <div className=" w-4/5 m-auto pb-4 text-2xl font-semibold uppercase border-b-2 border-primary-200">
+            <div className="grid grid-cols-2">
                 <div>
-                    <Link to={"/class/:c"} className="hover-1">&lt;--- {previousPage} </Link>
+                    <Link to={urlLink} className="hover-1">&lt;--- {previousPage} </Link>
                 </div>
                 <div className="text-right">
-                    <Link to={"/class/:c"} className="hover-1">{rightData1} : {rightData2}</Link>
+                    <div>{rightData1} : {rightData2}</div>
                 </div>
             </div>
         </div>

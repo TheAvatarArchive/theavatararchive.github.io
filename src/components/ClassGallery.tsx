@@ -2,6 +2,7 @@ import Avatar from "../components/Avatar";
 import { useParams} from "react-router";
 import data from "../data/classes.json"
 import {useState} from "react";
+
 function ClassGallery() {
     const {c} = useParams()
     function isClass(course){

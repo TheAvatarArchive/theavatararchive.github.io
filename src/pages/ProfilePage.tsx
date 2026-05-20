@@ -27,7 +27,7 @@ function ProfilePage(props) {
     return (
         <>
             <Title />
-            <SubNav previousPage={"Archive"} rightData1={"Creator"} rightData2={studentData.student} />
+            <SubNav urlLink={"/class/:c"} previousPage={"Archive"} rightData1={"Creator"} rightData2={studentData.student} />
             <AvatarBlurbSection
                 img={studentData.avatar360Gif.file}
                 name={studentData.avatar.name}

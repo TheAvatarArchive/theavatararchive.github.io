@@ -27,7 +27,7 @@ function ClassPage() {
     return (
         <>
             <Title />
-            <SubNav previousPage={"Home"} rightData1={courseData.semester} rightData2={courseData.name} />
+            <SubNav urlLink={"/"} previousPage={"Home"} rightData1={courseData.semester} rightData2={courseData.name} />
             <ClassGallery />
             <Footer />
         </>
