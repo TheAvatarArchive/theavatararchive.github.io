@@ -15,7 +15,7 @@ function ClassGallery() {
 
     return (
         <div>
-            <div className="w-4/5 pt-20 pb-20 m-auto grid grid-cols-3 gap-14">
+            <div className="grid grid-cols-2 gap-8 mt-10 mb-10 md:grid-cols-3 md:gap-14 w-4/5 m-auto md:pt-20 md:pb-20 ">
                 { courseData.roster.map((student)=>{
                     return  <Avatar className={"min-w-full"} key={student.student} c={courseData.name} {...student} />
                 })}
