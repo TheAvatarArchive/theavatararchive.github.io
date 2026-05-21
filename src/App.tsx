@@ -1,12 +1,11 @@
 import './App.css'
-import Home from "./pages/HomePage.tsx";
-
+import HomePage from "./pages/HomePage.tsx";
 
 function App() {
 
   return (
     <>
-        <Home />
+        <HomePage />
     </>
   )
 }

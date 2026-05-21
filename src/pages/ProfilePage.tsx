@@ -9,7 +9,9 @@ import SubNav from "../components/SubNav.tsx";
 import Footer from "../components/Footer.tsx";
 
 function ProfilePage(props) {
+
     const {c, a} = useParams()
+
     function isClass(course){
         return course.name == c
     }
@@ -27,7 +29,7 @@ function ProfilePage(props) {
     return (
         <>
             <Title />
-            <SubNav urlLink={"/class/:c"} previousPage={"Archive"} rightData1={"Creator"} rightData2={studentData.student} />
+            <SubNav urlLink={"/class/"+courseData.name} previousPage={"Archive"} rightData1={"Creator"} rightData2={studentData.student} />
             <AvatarBlurbSection
                 img={studentData.avatar360Gif.file}
                 name={studentData.avatar.name}

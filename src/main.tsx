@@ -5,20 +5,27 @@ import {createBrowserRouter } from "react-router";
 import { RouterProvider } from "react-router/dom";
 import ClassPage from "./pages/ClassPage.tsx";
 import ProfilePage from "./pages/ProfilePage.tsx";
+import RootLayout from "./RootLayout.tsx";
 
 
 const router = createBrowserRouter([
     {
         path: "/",
-        Component: App,
-    },
-    {
-        path: "/class/:c",
-        Component: ClassPage,
-    },
-    {
-        path: "/class/:c/profile/:a",
-        Component: ProfilePage,
+        Component: RootLayout,
+        children: [
+            {
+                index: true,
+                Component: App,
+            },
+            {
+                path: "class/:c",
+                Component: ClassPage,
+            },
+            {
+                path: "class/:c/profile/:a",
+                Component: ProfilePage,
+            },
+        ],
     },
 ]);
 
